@@ -1,17 +1,24 @@
 ---
 layout: default
-title: CS50 Documentation
+title: CS50 AP Playbook
 ---
 
 # Table of Contents
 
-- [CS50 CLI](cli)
-- CS50 IDE
-  - [FAQs](ide/faqs)
-  - [Offline](ide/offline)
-  - [Online](ide)
-- [CS50 Server](server)
-- CS50x
-  - [FAQs](cs50x/faqs)
-- [Style Guide](style)
-- [`submit50`](submit50)
+- [Day 0 Guide](day0)
+- [Teacher Insights](insights)
+- [AP CSP](apcsp)
+    - [Syllabus Audit](apcsp/collegeboard)
+- [Grading](grading)
+- [Events and Culture](events)
+    - [Puzzleday](events/puzzleday)
+    - [Hackathon](events/hackathon)
+    - [CS50 Fair](events/cs50fair)
+- Resources
+    - [`check50`](resources/check50.pdf)
+    - [CS50.me](resources/cs50me.pdf)
+    - [CS50.tv](resources/cs50tv.pdf)
+    - [CS50 IDE](resources/cs50ide.pdf)
+    - [CS50 Quiz Bank](resources/quizbank50.pdf)
+    - [`help50`](resources/help50.pdf)
+    - [Reference50](resources/reference50.pdf)
