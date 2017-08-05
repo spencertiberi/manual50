@@ -5,6 +5,8 @@ title: CS50 AP Playbook
 
 # Table of Contents
 
+<img src="douglife.jpg" alt="Doug Life" width="600" align="right">
+
 - [Day 0 Guide](day0)
 - [Teacher Insights](insights)
 - [AP CSP](apcsp)
