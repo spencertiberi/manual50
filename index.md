@@ -5,7 +5,7 @@ title: CS50 AP Playbook
 
 # Year at a Glance
 
-<img src="cs50apworkshop.jpg" alt="cs50apworkshop" width="700" align="right">
+<img src="cs50apworkshop.jpg" alt="cs50apworkshop" width="600" align="right">
 
 **CS50 Puzzle Day*** <br>
 **Chapter 0:** Computers and Computing _(2-3 weeks)_<br>
@@ -22,7 +22,7 @@ title: CS50 AP Playbook
 **CS50 Fair*** <br>
 **AP CSP Exam**
 
-\* Recommended Placement
+\*Recommended Placement
 
 # Playbook Table of Contents
 
