@@ -5,6 +5,8 @@ title: CS50 AP Playbook
 
 # Year at a Glance
 
+<img src="cs50apworkshop.jpg" alt="cs50apworkshop" width="700" align="right">
+
 **CS50 Puzzle Day** <br>
 **Chapter 0:** Computers and Computing <br>
 **AP CSP Explore Task** <br>
@@ -20,9 +22,7 @@ title: CS50 AP Playbook
 **CS50 Fair** <br>
 **AP CSP Exam**
 
-# Table of Contents
-
-<img src="cs50apworkshop.jpg" alt="cs50apworkshop" width="700" align="right">
+# Playbook Table of Contents
 
 - [Day 0 Guide](day0)
 - [Teacher Insights](insights)
