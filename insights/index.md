@@ -4,9 +4,10 @@ layout: left
 
 # CS50 AP Teacher Insights
 
+## CS50 AP Support
 Know that you are not alone as a member of the CS50 teaching corps. Indeed, this playbook was written by a CS50 AP educator. Here are some insights and pro tips compiled with the aid of CS50 educators, both former and current.
 
-Also, as always, feel free to reach out and email [ap@cs50.harvard.edu][mailto:ap@cs50.harvard.edu] for help and advice.
+Also, as always, feel free to reach out and email [ap@cs50.harvard.edu](mailto:ap@cs50.harvard.edu) for help and advice.
 
 ## School and District Administration
 
