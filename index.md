@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: left
 title: CS50 AP Playbook
 ---
 
 # Table of Contents
 
-<img src="douglife.jpg" alt="Doug Life" width="700" align="right">
+<img src="cs50apworkshop.jpg" alt="cs50apworkshop" width="700" align="right">
 
 - [Day 0 Guide](day0)
 - [Teacher Insights](insights)
