@@ -1,5 +1,5 @@
 ---
-layout: left
+layout: default
 title: CS50 AP Playbook
 ---
 
