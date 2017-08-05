@@ -43,3 +43,10 @@ title: CS50 AP Playbook
     - [CS50 Quiz Bank](resources/quizbank50.pdf)
     - [`help50`](resources/help50.pdf)
     - [Reference50](resources/reference50.pdf)
+- AP Workshop Resources
+  - This is CS50
+    - [Video](https://youtu.be/l0nhqJaIYvc?list=PLhQjrBD2T381nVyoR_UDSBw-z1SKD4qwp)
+    - [Notes](notes/thisiscs50)
+    - [Slides](https://www.dropbox.com/sh/bq8cir43m2n6rvq/AAATm-r9TZFnBsR1OepNgZyva?dl=0&preview=This+is+CS50.pdf)
+  - CS50 in a Box
+  - CS50 Tools
