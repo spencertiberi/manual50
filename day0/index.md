@@ -10,7 +10,7 @@ layout: left
 
 It's the start of a new school year and you're about to stand in front of a group of students and say "This is CS50."
 
-You're nervous, but on the surface you look calm and ready. <img src="eminem.jpg", alt="eminem", width="30">
+You're nervous, but on the surface you look calm and ready. <img src="eminem.jpg" alt="eminem" width="30">
 
 This page serves as a short list of things to consider to help you feel under control and have this first day go smoothly.
 
