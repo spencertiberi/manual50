@@ -83,14 +83,12 @@ CS50's Puzzle Day Schedule
 
 For reference, here's the schedule we follow for CS50 Puzzle Day:
 
+| Time            | Event                                                  |
+|-----------------|--------------------------------------------------------|
 | **11:45**       | Doors open                                             |
-
 | **11:45-12:15** | Lunch                                                  |
-
 | **12:15-12:30** | Instructions                                           |
-
 | **12:30-2:45**  | Puzzle solving; solution packet in by 2:45 on the dot! |
-
 | **2:45-3:00**   | Solutions revealed                                     |
 
 We have historically found that just over two hours to work on the puzzles is a good sweet spot for undergrads. Usually just a few teams are able to complete them all, but everyone is able to complete a few and so it's still lots of fun!

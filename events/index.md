@@ -27,8 +27,24 @@ Food and culture go hand in hand. It can help events become more engaging. It ca
 
 CS50 events are a huge part of what makes CS50 AP tick. They not only increase notoriety on campus and in the community, but they also help students feel more comfortable and excited about material that otherwise may be intimidating. These events are at the heart of CS50 culture. We want to make sure to provide you with a wealth of advice on running events at your school. If you need any help with this process, feel free to contact the CS50 AP staff.
 
-### Puzzle Day
+### [Puzzle Day](puzzleday)
 
-### Hackathons
+A puzzle solving extravaganza designed to get students excited about problem solving.
 
-### CS50 Fair
+<img src="puzzleday2.jpg" alt="puzzle day" width="400">
+
+#### Sample Schedule
+
+| Time            | Event                                                  |
+|-----------------|--------------------------------------------------------|
+| **11:45**       | Doors open                                             |
+| **11:45-12:15** | Lunch                                                  |
+| **12:15-12:30** | Instructions                                           |
+| **12:30-2:45**  | Puzzle solving; solution packet in by 2:45 on the dot! |
+| **2:45-3:00**   | Solutions revealed                                     |
+
+### [Hackathons](hackathon)
+
+<img src="hackathon2.jpg" alt="hackathon" width="400">
+
+### [CS50 Fair](cs50fair)
