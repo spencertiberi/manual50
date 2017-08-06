@@ -1,6 +1,6 @@
 # CS50 AP Workshop 2017
 
-## This is CS50
+## CS50 Curriculum
 
 ### Introductions
 - All CS50 AP Workshop materials are on [cs50.ly/july-materials](cs50.ly/july-materials)

@@ -1,6 +1,6 @@
 # CS50 AP Workshop 2017
 
-## CS50 and the AP CSP Curriculum Framework
+## The CS50 AP Classroom
 
 ### Introductions
 - Erin briefly introduces herself and fields questions.
