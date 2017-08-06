@@ -6,63 +6,63 @@ layout: left
 
 ## What is it?
 
-On campus at Harvard, the *CS50 Hackathon* is an epic all-nighter during which students dive into final projects with classmates and staff. Food, photos, and fun are apart of the 12-hour-long event.
+On campus at Harvard, the **CS50 Hackathon** is an epic all-nighter during which students dive into final projects with classmates and staff. Food, photos, and fun are apart of the 12-hour-long event.
 
 <img src="nosleep.gif" alt="nosleep" width="500">
 
 However, in a high school setting, teachers typically opt for a five- or six-hour event, often starting midday on a Saturday.
 
-The CS50 AP Hackathon is an oportunity for students to synthesize and expand on what they've learned during the course. It's a great opportunity for students to dive deeper into the AP CS Principles **Create Task**, as well as publicize your CS50 AP class.
+The CS50 AP Hackathon is an opportunity for students to synthesize and expand on what they've learned during the course. It's a great opportunity for students to dive deeper into the AP CS Principles **Create Task**, as well as publicize your CS50 AP class.
 
 <img src="hackathon.jpg" alt="hackathon" width="500">
 
 ## Things to Consider When Planning a CS50 AP Hackathon
 ### Publicity
 
-Publicity for your events is essential for building CS50 AP at your school. Thus, it's a good idea open up the event to the broader school community. In addition to guaging interest in the event via survey, consider asking local mom and pop businesses for some problems that could be solved with a little computer science expertise. This not only provides the motivation of a "real-world" impact for your students, it could help you accumulate some sponsors for your CS50 Hackathon and other events.
+Publicity for your events is essential for building CS50 AP at your school. Thus, it's a good idea open up the event to the broader school community. In addition to gauging interest in the event via survey, consider asking local mom and pop businesses for some problems that could be solved with a little computer science expertise. This not only provides the motivation of a "real-world" impact for your students, it could help you accumulate some sponsors for your CS50 Hackathon and other events.
 
 ### Food
 
-Food is a great way to building an exciting environment for the CS50 AP Hackathon. However, most money spent on this event typicaaly goes towards food. Reach out to local potential sponsors early and stay in touch often. Often these relationships can lead to discounted or free merchandise. Also, be sure to ask parents as well. You'd be surprised how many connections students and their parents have in the communinty.
+Food is a great way to building an exciting environment for the CS50 AP Hackathon. However, most money spent on this event typically goes towards food. Reach out to local potential sponsors early and stay in touch often. Often these relationships can lead to discounted or free merchandise. Also, be sure to ask parents as well. You'd be surprised how many connections students and their parents have in the community.
 
 Ordering food can be tricky if this is your first Hackathon, but allow us to share some insight to how we order food. In terms of meals, we order two dinners (our event is 12 hours after all). First dinner is burritos, then we bring out veggie platters, second dinner is pizza, lastly is some fruit platters. Throughout the event we leave out candy (chocolate and non-chocolate), sodas, coffee, and water. We use small plates, so that students are forced to take smaller amounts at a time. Keeping portion size smaller tends to reduce waste. Here are some portion sizes that we found helpful:
 
 
-#### **Burritos**
+**Burritos** <br>
 _1 per attendee (cut in half)_
 
 We usually order 45% chicken, 25% carnitas, 10% veggie, 10% chorizo and some gluten free burritos.
 
 ---
 
-#### **Veggie Platters**
+**Veggie Platters** <br>
 _1 platter per 20–30 attendees (This might be a lower number for high school students)_
 
 ---
 
-#### **Pizza**
+**Pizza** <br>
 _3 per attendee (ask Dominoes about corporate pricing)_
 
 We usually order 45% cheese, 25% pepperoni, 10% buffalo, 10% green peppers and mushrooms and some gluten free pizzas.
 
 ---
 
-#### **Clementines**
+**Clementines** <br>
 _1–2 per attendee_
 
 ---
 
-#### **Candy**
+**Candy** <br>
 _5 pieces per attendee (50% chocolate and 50% non-chocolate)_
 
 ---
 
-#### **Sodas**
+**Sodas** <br>
 _2 per attendee (we’ve noticed that this number has decreased significantly over the past few year so maybe slightly less than this)_
 
 ---
 
-#### **Water**
+**Water** <br>
 _1 jug (of the water cooler variety) per 35 attendees_
 
 Note that this was for all 12 hours of our event.

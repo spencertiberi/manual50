@@ -18,10 +18,9 @@ CS50 Puzzle Day is a CS50 tradition at Harvard since 2011. It kicks off the cour
 
 ### Food
 
-We typically order pizza assuming 3 slices per person. Sometimes that overshoots it, sometimes it's just right. We also usually order one large-sized veggie platter for every 20 or so pizzas. College kids are porbably more health-consious than high schoolers, though!
+We typically order pizza assuming 3 slices per person. Sometimes that overshoots it, sometimes it's just right. We also usually order one large-sized veggie platter for every 20 or so pizzas. College kids are probably more health-conscious than high schoolers, though!
 
 Definitely be sure to order food the at night before, at least; the order is large and they will appreciate the lead time. The amount of time you wish to giveSchedule delivery for at least 30 minutes before the doors are opened.  Food is usually late with large orders, so be sure to request the food to be delivered before the time you actually do want it!
-
 
 Bulk candy and beverages from Costco can be handy.  Depending on what's best for your school, either canned soda at two cans per person or two-liter bottles at one bottle per four people is a good estimate.
 
@@ -45,7 +44,7 @@ Be sure to encourage that "winning" isn't the goal -- problem solving and creati
 
 ### 1 Week Before
 
-* [Order a CS50 AP Puzzle Day Package.](https://www.theharvardshop.com/collections/cs50)
+* If you haven't received Puzzle Day materials, be sure to let us know at [ap@cs50.harvard.edu](mailto:ap@cs50.harvard.edu)
 
 _Tip 1: Be sure to give at least one week for materials to arrive if shipping into the continental United States. International orders typically take a few weeks._
 
@@ -79,16 +78,4 @@ _Tip 6: Don't forget to talk to local businesses to see if they will help subsid
 * Be sure to take lots of pictures and video if possible!
 * Encourage students to create groups with folks they normally might not.
 
-CS50's Puzzle Day Schedule
-
-For reference, here's the schedule we follow for CS50 Puzzle Day:
-
-| Time            | Event                                                  |
-|-----------------|--------------------------------------------------------|
-| **11:45**       | Doors open                                             |
-| **11:45-12:15** | Lunch                                                  |
-| **12:15-12:30** | Instructions                                           |
-| **12:30-2:45**  | Puzzle solving; solution packet in by 2:45 on the dot! |
-| **2:45-3:00**   | Solutions revealed                                     |
-
-We have historically found that just over two hours to work on the puzzles is a good sweet spot for undergrads. Usually just a few teams are able to complete them all, but everyone is able to complete a few and so it's still lots of fun!
+At the College, we have found that just over two hours to work on the puzzles is a good sweet spot for undergrads. Usually just a few teams are able to complete them all, but everyone is able to complete a few and so it's still lots of fun!

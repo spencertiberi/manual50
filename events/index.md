@@ -45,6 +45,29 @@ A puzzle solving extravaganza designed to get students excited about problem sol
 
 ### [Hackathons](hackathon)
 
+On campus at Harvard, the CS50 Hackathon is a 12-hour programming marathon. For CS50 AP, it's a great opportunity to build community and reenergize students.
+
 <img src="hackathon2.jpg" alt="hackathon" width="400">
 
+#### Sample Schedule
+
+| Time            | Event                                                  |
+|-----------------|--------------------------------------------------------|
+| **11:45**       | Doors open                                             |
+| **11:45-12:15** | Lunch                                                  |
+| **12:15-12:30** | Instructions                                           |
+| **12:30-2:45**  | Students work on assignments/code                            |
+
 ### [CS50 Fair](cs50fair)
+
+The CS50 is a celebration of student achievement where students showcase their final projects.
+
+<img src="cs50fair2.jpg" alt="cs50fair" width="400">
+
+#### Sample Schedule
+
+| Time            | Event                                                  |
+|-----------------|--------------------------------------------------------|
+| **11:45**       | Doors open                                             |
+| **11:45-12:00** | Students sign in                                       |
+| **12:00-2:00**  | Students showcase their projects                       |
