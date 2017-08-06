@@ -5,13 +5,12 @@ layout: left
 # AP Computer Science Principles (CSP)
 
 ## CS50 and College Board
-**CS50 AP** is a **College Board** endorsed curriculum for **AP Computer Science Principles (CSP)**. AP CSP requires the sufficient completion of two performance tasks and an exam to recieve college credit for the course. This page gives additional information on how prepare your students to complete these tasks and exam sufficiently.
-
+**CS50 AP** is a **College Board** endorsed curriculum for **AP Computer Science Principles (CSP)**. AP CSP requires the sufficient completion of two performance tasks and an exam to receive college credit for the course. This page gives additional information on how prepare your students to complete these tasks and exam sufficiently.
 
 The AP score for College Board is based on two performance tasks, namely the Explore Task and the Create Task, that make up the AP Digital Portfolio and an AP Exam. More information on the structure of AP CSP can be found at [AP Central](http://apcentral.collegeboard.com/apc/public/exam/exam_information/231726.html).
 
 ## Performance Tasks
-AP CSP requires the completion of two perfomance tasks, the *Explore Task* and the *Create Task*, as part of an *AP Portfolio*. Both tasks can be accessed and submitted through the [**AP Digital Portfolio**](https://account.collegeboard.org/login/login?appId=295&DURL=https%3A%2F%2Fdigitalportfolio.collegeboard.org%2F%23instruction). Ruberics and sample tasks provided by College Board can be found [here](http://apcentral.collegeboard.com/apc/public/exam/exam_information/231726.html).
+AP CSP requires the completion of two performance tasks, the *Explore Task* and the *Create Task*, as part of an *AP Portfolio*. Both tasks can be accessed and submitted through the [**AP Digital Portfolio**](https://account.collegeboard.org/login/login?appId=295&DURL=https%3A%2F%2Fdigitalportfolio.collegeboard.org%2F%23instruction). Additional info, rubrics, and sample tasks provided by College Board can be found [here](http://apcentral.collegeboard.com/apc/public/exam/exam_information/231726.html).
 
 ### Explore Task
 
@@ -29,13 +28,15 @@ The Create Task comes in at the end of the core chapters, following Chapter 6. A
 
 <img src="test.gif" alt="test" width="350">
 
-
 ### Topics Covered
 
 We believe the CS50 AP curriculum sufficiently covers the material required to pass the AP CSP Exam. A guide of topics covered in the exam can be found [here](http://apcentral.collegeboard.com/apc/public/exam/exam_information/231726.html).
+
+After completing the AP Course Audit, you will obtain access to a practice AP Exam.
 
 ## AP Course Audit
 
 In order for a course to be approved as an AP course by College Board, the class needs to undergo [an audit](collegeboard).
 
-Submission of the course audit form and syllabus is encouraged before October 1<sup>st</sup>, 2017 for the 2017-2018 school year. As CS50 AP is an Endorsed Provider for CS50 AP, the process is easier. Visit the [College Board course audit page](http://www.collegeboard.com/html/apcourseaudit/courses/ap_computer_science_principles.html) for more information.
+<!-- Be sure to replace the date here -->
+Submission of the course audit form and syllabus is encouraged before **October 1<sup>st</sup>, 2017** for the **2017-2018** school year. As CS50 AP is an Endorsed Provider for CS50 AP, the process is easier. Visit the [College Board course audit page](http://www.collegeboard.com/html/apcourseaudit/courses/ap_computer_science_principles.html) for more information.

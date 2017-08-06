@@ -4,14 +4,14 @@ layout: left
 
 # CS50 Grading
 
-## Axes
+## Grading Axes
 Just like on campus at Harvard, CS50 AP is graded along the following three axes:
 
 * **Correctness:** the extent to which code is consistent with CS50 specifications and free of bugs.
 * **Design:** the extent to which code is written well (i.e., clearly, efficiently, elegantly, and/or logically)
 * **Style:** the extent to which code is readable (i.e., commented and intended with variables aptly named)
 
-Out of the three, *Design* is the most subjective. Whereas **Correctness** and **Style** will be automatically handled by CS50.me and the related submission command, `submit50`, **Design** is graded solely by the teacher. In general, all 3 axes are graded using thr course's five point scale.
+Out of the three, **Design** is the most subjective. Whereas **Correctness** and **Style** will be automatically handled by CS50.me and the related submission command, `submit50`, **Design** is graded solely by the teacher. Note that teachers can override the grades automatically assigned for **Correctness** and **Style**. In general, all 3 axes are graded using the course's five point scale.
 
 ### Five Point Grading Scale
 
@@ -29,15 +29,17 @@ When grading for the 3 axes, CS50 uses a five point grading scale for determinin
 <br>
 NOTE: A grade of 3 is indeed good! This can take quite some time for students to get comfortable with as they have been trained to see 3 out of 5 as a percentage, namely 3/5 or 60%. +
 
-Also, whereas scores of 5 can be common for *Correctness* and *Style*, a score of 5 for *Design* should be rare; a 5 here implies perfection. *Design*, by its nature, offers room for improvement in most cases.  Thus, a 4 for *Design* is a really good grade.  
+Also, whereas scores of 5 can be common for **Correctness** and **Style**, a score of 5 for **Design** should be rare; a 5 here implies perfection. **Design**, by its nature, offers room for improvement in most cases.  Thus, a 4 for **Design** is a really good grade.  
 
-In addition to leveraging this grading scheme, it's important to focus on providing quality feedback during the grading process so that grades have pedagogical value. Feedback should create opportunites for dialog between teachers and students.
+In addition to leveraging this grading scheme, it's important to focus on providing quality feedback during the grading process so that grades have pedagogical value. Feedback should create opportunities for dialog between teachers and students.
 
 
 ## Giving Feedback
-Grading for *Design* is by far the most time-consuming, albeit satisfying, process in grading for CS50 AP. The focus of grading for *Design* is efficiency and elegance of a student's code. As such, feedback should focus on pointing out good practices (+s) and things to change (Δs). It's essential that feedback include reasoning as to why something is a good practice or should be changed. Of course, feedback can also shine light on *Style* and *Correctness*.
+Grading for **Design** is by far the most time-consuming, albeit satisfying, process in grading for CS50 AP. The focus of grading for **Design** is the efficiency and elegance of a student's code. As such, feedback is important when grading **Design**. Of course, this feedback can also shine light on **Style** and **Correctness**.
 
+Feedback should focus on pointing out good design practices (+s) and things to change (Δs). As a goal, there should be an 1-to-1 ratio of +s to Δs. It's essential that this feedback include reasoning as to why something is a good practice or should be changed.
 
+In general, there should be an inverse relationship between feedback and score. That is, the lower the score, the more feedback should be provided, and visa versa.
 
 ### Feedback Examples
 Note the following code segments from a submission by a fictitious student for the problem Greedy:
@@ -113,4 +115,4 @@ Note the following code segments from a submission by a fictitious student for t
 
 ## Assigning a Score
 
-It can take some practice to determine how to assign a five point scale grade for *Design*.  Thus, for each CS50 AP problem, grading guidelines are provided on the [CS50 AP Portal](https://ap.cs50.net/resources/).
+It can take some practice to determine how to assign a five point scale grade for **Design**.  Thus, for each CS50 AP problem, grading guidelines are provided on the [CS50 AP Portal](https://ap.cs50.net/resources/).

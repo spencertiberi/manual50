@@ -1,9 +1,9 @@
-# College Board
+# Syllabus Audit
 
-## CS50 AP and AP CSP 
-If unfamilar, the course audit process can sound/be intimiating, but making CS50 AP a reality at your school is pretty simple. 
+## CS50 AP as an Endorsed Curriculum Provider
+If unfamiliar, the course audit process can sound/be intimidating, but making CS50 AP a reality at your school is pretty simple.
 
-Due to **CS50 AP** being a **College Board** endorsed curriculum for **AP Computer Science Principles (CSP)**, the process of College Board's course audit is streamlined. Perhaps most importantly, there's no need to create, submit, or request approval of your own syllabus; ours is already approved! Here's how to go through the course audit with our syllabus.
+Due to **CS50** being a **College Board** endorsed curriculum provider for **AP Computer Science Principles (CSP)**, the process of College Board's course audit is streamlined. Perhaps most importantly, there's no need to create, submit, or request approval of your own syllabus; ours is already approved! Here's how to go through the course audit with our syllabus.
 
 ## Course Audit
 
@@ -57,6 +57,6 @@ Due to **CS50 AP** being a **College Board** endorsed curriculum for **AP Comput
 
 <img src="apaudit10.png" alt="AP Audit 10" width="500">
 
-**When you see this screen, all you have to do is wait for your adminstrator to approve the course for your school!** 
+**When you see this screen, all you have to do is wait for your adminstrator to approve the course for your school!**
 
 This will be CS50 AP.

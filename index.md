@@ -3,15 +3,15 @@ layout: default
 title: CS50 AP Playbook
 ---
 
-# Playbook Table of Contents
+# Table of Contents
 
 <img src="cs50apworkshop.jpg" alt="cs50apworkshop" width="600" align="right">
 
 - [Day 0 Guide](day0)
-- [Year at a Glance](yearataglance)
+- [Curriculum Overview](curriculum)
 - [Teacher Insights](insights)
 - [AP CSP](apcsp)
-    - [Syllabus Audit](apcsp/collegeboard)
+    - [Syllabus Audit](apcsp/syllabusaudit)
 - [Grading](grading)
 - [Events and Culture](events)
     - [Puzzleday](events/puzzleday)

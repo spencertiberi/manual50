@@ -7,7 +7,7 @@ layout: left
 ## CS50 AP Support
 Know that you are not alone as a member of the CS50 teaching corps. Indeed, this playbook was written by a CS50 AP educator. Here are some insights and pro tips compiled with the aid of CS50 educators, both former and current.
 
-Also, as always, feel free to reach out and email [ap@cs50.harvard.edu](mailto:ap@cs50.harvard.edu) for help and advice.
+As always, feel free to reach out and email [ap@cs50.harvard.edu](mailto:ap@cs50.harvard.edu) for help and advice.
 
 ## School and District Administration
 
@@ -46,30 +46,6 @@ _Tip: A tablet being screen mirrored to a projector can work wonders for classro
 Music can create an energetic, motivating, and/or focused environment depending on the playlist chosen.
 
 _Tip: In a pinch, a single bluetooth speaker can work wonders if the classroom does not have a speaker system._
-
-## Classroom Culture
-
-The development of CS50 culture at your school is a big part of making the course more accessible and engaging for students. During any given semester at Harvard, over 70% of the students taking CS50 have no previous programming experience. The galvanizing culture of CS50 helps students become comfortable with taking on the challenge of learning a new concept. To help create a culture that is CS50 at your school, consider some of the following.
-
-### Showmanship
-
-As a teacher, never be afraid to use a little showmanship. Adding your personal flare and quality production goes a long way to give your class a fun and engaging vibe. In the past, I have personally used streamers for special occasions, humor subtly-embedded into assignments, and well-timed classroom music to help enhance the classroom experience.
-
-<img src="glitter.gif" alt="glitter">
-
-### CS50 events
-
-CS50 events are a huge part of what makes CS50 AP tick. They not only increase notoriety on campus and in the community, but they also help students feel more comfortable and excited about material that otherwise may be intimidating. We want to make sure to provide you with a [wealth of advice on running events at your school](brokt link:../events.html). If you need any help with this process, feel free to contact the CS50 AP staff.
-
-
-### Occasional food, snacks, or treats
-<img src="ggv2.jpg" alt="ggv2" width="400">
-
-> "A spoonful of sugar helps the medicine go down."
->
-> -- Mary Poppins
-
-Food and culture go hand in hand. It can help events become more engaging. It can also take the edge off of when students feel stressed. For example, I used to give cupcakes to my students on test days.
 
 ## Establishing Community Partnerships
 
