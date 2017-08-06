@@ -1,25 +1,27 @@
-# Contributing
+# README
+## What is the AP Playbook?
 
-TODO
+It is a playbook for bringing CS50 AP to schools. It provides guidance on running events, planning, and more. It also includes reference sheets for various resources and CS50 AP Workshop 2017 materials.
 
-# References
+## Contributing
 
-- http://primercss.io/colors/
-    - https://github.com/primer/primer-css/issues/232
-- https://allejo.io/blog/a-jekyll-toc-in-liquid-only/
-- https://github.com/github/pages-gem#bypassing-the-plugin-whitelist
+### Markdown Style
+- All md files start with a H1 and a subsequent H2.
+  - Only use H1 at the top.
+- All mentions of command-line programs like `check50` should be formatted as code.
+- Be sure to include toc to the left of each page using
 
-# TODO
+  ```
+  ---
+  layout: left
+  ---
+  ```
 
-- Add anchor icons, https://www.bryanbraun.com/anchorjs/#examples.
-- Use Sass for Bootstrap and GitHub rather than CSS alone (so as to have access to variables).
-- Elaborate on restarting authentication agent for `submit50`.
-- Fix use of backticks in section headings.
+## References
 
-# Future Work
+Forked from https://github.com/cs50/manual50
 
-- https://github.com/gjtorikian/jekyll-html-pipeline
-    - https://github.com/jch/html-pipeline
-    - https://github.com/jch/html-pipeline/blob/master/lib/html/pipeline/filter.rb 
-    - https://github.com/gjtorikian/commonmarker
-    - https://github.com/gjtorikian/page-toc-filter
+## TODO
+
+- Edit reference sheets
+- Create overview of events

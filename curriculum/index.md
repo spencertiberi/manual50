@@ -1,5 +1,6 @@
 # CS50 AP Curriculum Overview
 
+## Seven + Two
 CS50 AP is broken into seven chapters with two optional chapters.  Also essential to CS50 AP are the various events that mirror the events held on campus at Harvard.  The following is a suggested flow of topics, events, and AP CSP tasks for the school year.
 
 ## Year at a Glance
