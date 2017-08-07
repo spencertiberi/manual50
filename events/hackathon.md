@@ -6,15 +6,15 @@ layout: left
 
 ## What is it?
 
-On campus at Harvard, the **CS50 Hackathon** is an epic all-nighter during which students dive into final projects with classmates and staff. Food, photos, and fun are apart of the 12-hour-long event.
+On campus at Harvard College, the **CS50 Hackathon** is an epic all-nighter during which students dive into final projects with classmates and staff. Food, photos, and fun are apart of the 12-hour-long event.
 
 <img src="nosleep.gif" alt="nosleep" width="500">
 
 However, in a high school setting, teachers typically opt for a five- or six-hour event, often starting midday on a Saturday.
 
-The CS50 AP Hackathon is an opportunity for students to synthesize and expand on what they've learned during the course. It's a great opportunity for students to dive deeper into the AP CS Principles **Create Task**, as well as publicize your CS50 AP class.
+The CS50 AP Hackathon is an opportunity for students to synthesize and expand on what they've learned during the course. It's a great opportunity for students to dive deeper into the AP CS Principles **Create Task**, as well as publicize your CS50 AP class. However, it can also be used as an intense problem solving session that helps reenergize students about the course. As such, we suggest that teachers hold multiple Hackathons throughout the semester.
 
-<img src="hackathon.jpg" alt="hackathon" width="500">
+<img src="hackathon2.jpg" alt="hackathon" width="500">
 
 ## Things to Consider When Planning a CS50 AP Hackathon
 ### Publicity
@@ -100,34 +100,19 @@ If you’re planning on giving out shirts as swag, have attendees fill out a Goo
 * Arrive at venue 4 hours prior to start of Hackathon to make sure last minute problems can be addressed
 * Bring a box of garbage bags.
 
-### Student Projects
-
-In CS50 at Harvard and Yale, students are required to submit a series of forms, including a pre-proposal, formal proposal, and status check on their final project. Eventually, students are required to write up documentation and record a 2 minute video showcasing their project. You are welcome to use any/all of the forms and wording.
-
-The pre-proposal is an opportunity to urge students to begin thinking about what they would like to tackle for their project.
-The proposal should ask students to:
-
-* Outline what they hope to achieve in their project
-* CS50 uses the terminology “good”, “better”, and “best” to ask students to clarify what they **will** accomplish, **think** they can accomplish, and **hope** to accomplish, respectively.
-* Consider what tools/skills they will need to learn
-* Decide whether they are working in groups, and if so, with whom
-
-NOTE: Students should not feel limited to the languages/APIs used in class. CS50 has seminars on various topics which may be applicable to the *Create Performance Task*, but it should also be emphasized that students are expected to find and use resources outside of the class, and that you as a teacher will not know all the answers.
-
-#### Possible Lessons Plans:
-
-* Based on pre-proposals and comments, prepare lessons and sample code for common tasks, like logging a user, connecting to a database, or reading new documentation.
-* Examples of project management tools, whether software or a paper based system. See [Margaret Tanzosh’s post on using Scrum Boards](http://cs50xnestm.mywebcommunity.org/process.html).
-
-*Teacher Created Resources:*
-
-* [Pre-proposal Form](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxjczUweGNlZGFydmlsbGV8Z3g6Nzc5NDc1YjNkZTlhMWFiMw) —  Angela Yake
-* [Final Project Instructions ](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxjczUweGNlZGFydmlsbGV8Z3g6NGJhZTIwYzgxNDMyYjg0YQ) —  Adapted from CS50 instructions by Angela Yake
-* [Final Project Lesson Plans](https://drive.google.com/file/d/0B_sRt5c3WoLKR3VQSTZudmo3VEozV3lhYlJfcG5aVzNaempR/view?usp=sharing)  —  By Margaret Tanzosh
-
 ### Other Logistics
 
-To reduce headache, you’ll want a list of volunteers, their phone numbers, and any roles you’ve assigned them. This way you’ll know exactly who to call if something goes wrong. We here at CS50 open a slack channel during the Hackathon and invite all participants to jump on as well. This way we can make announcements without disrupting students’ workflow. Students will be collaborating at this event to work through bugs, so make sure you define the extent in which you want them to collaborate and expose them to some platforms for doing so such as collaborator mode in the IDE and Github.
+#### Parents
+Parents can be one of your biggest assets. Be sure to reach out for support and help from parents when running a Hackathon. Often, parents can help with supplies or volunteer their time.
+
+#### Volunteers
+To reduce headache, you’ll want a list of volunteers, their phone numbers, and any roles you’ve assigned them. This way you’ll know exactly who to call if something goes wrong. We here at CS50 open a slack channel during the Hackathon and invite all participants to jump on as well. This way we can make announcements without disrupting students’ workflow.
+
+#### Student Collaboration
+Students will be collaborating at this event to work through bugs, so make sure you define the extent in which you want them to collaborate and expose them to some platforms for doing so such as collaborator mode in the IDE and Github.
+
+#### Security
+Also, be sure to notify school security about the event. Many schools have alarms armed on the weekends. Nothing kills the mood like alarms going off and having to wait for police to arrive.
 
 ## Timeline/Checklist
 

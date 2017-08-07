@@ -11,30 +11,6 @@ The culminating event for CS50 at Harvard and Yale is the CS50 fair, in which st
 <img src="cs50fair.jpg" alt="cs50 fair" width="500">
 
 ## Things to Consider When Planning a CS50 AP Hackathon
-### Student Projects
-
-In CS50 at Harvard and Yale, students are required to submit a series of forms, including a **pre-proposal**, **formal proposal**, and **status check** on their final project. Eventually, students are required to write up documentation and record a 2 minute video showcasing their project. You are welcome to use any/all of the forms and wording.  Likely, this process would have already been touched upon when planning the **CS50 Hackathon**.
-
-The pre-proposal is an opportunity to urge students to begin thinking about what they would like to tackle for their project.
-The proposal should ask students to:
-
-* Outline what they hope to achieve in their project
-* CS50 uses the terminology **“good”**, **“better”**, and **“best”** to ask students to clarify what they *will* accomplish, *think* they can accomplish, and *hope* to accomplish, respectively.
-* Consider what tools/skills they will need to learn
-* Decide whether they are working in groups, and if so, with whom
-
-NOTE: Students should not feel limited to the languages/APIs used in class. CS50 has seminars on various topics which may be applicable to the **Create Performance Task**, but it should also be emphasized that students are expected to find and use resources outside of the class, and that you as a teacher will not know all the answers.
-
-#### Possible Lessons Plans
-
-* Based on pre-proposals and comments, prepare lessons and sample code for common tasks, like logging a user, connecting to a database, or reading new documentation.
-* Examples of project management tools, whether software or a paper based system. See [Margaret Tanzosh’s post on using Scrum Boards](http://cs50xnestm.mywebcommunity.org/process.html).
-
-*Teacher Created Resources:*
-
-* [Pre-proposal Form](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxjczUweGNlZGFydmlsbGV8Z3g6Nzc5NDc1YjNkZTlhMWFiMw) —  Angela Yake
-* [Final Project Instructions ](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxjczUweGNlZGFydmlsbGV8Z3g6NGJhZTIwYzgxNDMyYjg0YQ) —  Adapted from CS50 instructions by Angela Yake
-* [Final Project Lesson Plans](https://drive.google.com/file/d/0B_sRt5c3WoLKR3VQSTZudmo3VEozV3lhYlJfcG5aVzNaempR/view?usp=sharing) —  By Margaret Tanzosh
 
 ### Picking a Date
 
@@ -63,11 +39,11 @@ Things to consider when choosing a location:
 
 ### Funding/Grants
 
-You may want to check out the [Toshiba America Foundation Grants](http://www.toshiba.com/taf/612.jsp) for your CS50 Fair.
+You may want to check out [scholarships](https://cs50.ly/scholarships) for your CS50 Fair.
 
-There are many sources from which you can try to get funding (either monetary or in materials). Teachers have reported being able to get t-shirts (which say “I took CS50 schoolname”) for free or at a significant discount from their local t-shirt printing shop. We’ve also had success contacting local businesses, who provide sponsorship in exchange for publicity.
+There are many sources from which you can try to get funding (either monetary or in materials). Teachers have reported being able to get t-shirts (which say “I took CS50 school name”) for free or at a significant discount from their local t-shirt printing shop. We’ve also had success contacting local businesses, who provide sponsorship in exchange for publicity.
 
-It’s also important to note that it is *entirely* possible to run a fair without outside funding. While photobooths and balloons can help to create a memorable experience, at its core, a CS50 fair is meant to show your community how much your students have achieved.
+It’s also important to note that it is *entirely* possible to run a fair without outside funding. While photobooths, balloons, and other flair can help to create a memorable experience, at its core, a CS50 fair is meant to show your community how much your students have achieved.
 
 ### Materials
 

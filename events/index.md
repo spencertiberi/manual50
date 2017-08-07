@@ -23,6 +23,12 @@ As a teacher, never be afraid to use a little showmanship. Adding your personal 
 
 Food and culture go hand in hand. It can help events become more engaging. It can also take the edge off of when students feel stressed. For example, I used to give cupcakes to my students on test days.
 
+### Photobooth
+
+At Harvard, we typically set up a photobooth during CS50 events. This has proven to be a valuable cultural addition to the event. We have it set up so that photos stream straight to twitter.
+
+<img src="photobooth.jpg" alt="photobooth" width="400">
+
 ## CS50 events
 
 CS50 events are a huge part of what makes CS50 AP tick. They not only increase notoriety on campus and in the community, but they also help students feel more comfortable and excited about material that otherwise may be intimidating. These events are at the heart of CS50 culture. We want to make sure to provide you with a wealth of advice on running events at your school. If you need any help with this process, feel free to contact the CS50 AP staff.

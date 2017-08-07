@@ -12,6 +12,7 @@ title: CS50 AP Playbook
 - [Teacher Insights](insights)
 - [AP CSP](apcsp)
     - [Syllabus Audit](apcsp/syllabusaudit)
+- [CS50 Final Project](finalproject)
 - [Grading](grading)
 - [Events and Culture](events)
     - [Puzzleday](events/puzzleday)
