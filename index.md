@@ -19,13 +19,15 @@ title: CS50 AP Playbook
     - [Hackathon](events/hackathon)
     - [CS50 Fair](events/cs50fair)
 - Resource Reference Sheets
-    - [`check50`](resources/check50.pdf)
-    - [CS50.me](resources/cs50me.pdf)
+    - [`check50`](resources/pdf/check50.pdf)
+    - [CS50.me](resources/pdf/cs50me.pdf)
     - [CS50.tv](resources/cs50tv.pdf)
-    - [CS50 IDE](resources/cs50ide.pdf)
-    - [CS50 Quiz Bank](resources/quizbank50.pdf)
-    - [`help50`](resources/help50.pdf)
-    - [Reference50](resources/reference50.pdf)
+    - [CS50 IDE](resources/pdf/cs50ide.pdf)
+    - [CS50 Quiz Bank](resources/pdf/cs50quizbank.pdf)
+    - [CS50 Reference](resources/pdf/cs50reference.pdf)
+    - [`help50`](resources/pdf/help50.pdf)
+    - [`style50`](resources/pdf/style50.pdf)
+
 - CS50 AP Workshop 2017 Resources
   - This is CS50
     - [Video](https://youtu.be/l0nhqJaIYvc?list=PLhQjrBD2T381nVyoR_UDSBw-z1SKD4qwp)
