@@ -1,3 +1,7 @@
+---
+layout: left
+---
+
 # CS50 AP Workshop 2017
 
 ## The CS50 AP Classroom

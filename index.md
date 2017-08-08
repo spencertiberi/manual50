@@ -53,3 +53,7 @@ title: CS50 AP Playbook
     - [Video](https://youtu.be/qsjQ368_OL8?list=PLhQjrBD2T381nVyoR_UDSBw-z1SKD4qwp)
     - [Notes](notes/diversityrecruiting)
     - [Slides](https://www.dropbox.com/sh/bq8cir43m2n6rvq/AAATm-r9TZFnBsR1OepNgZyva?dl=0&preview=CS50+%40+Archer.pdf)
+  - Grading and Academic Honesty
+    - [Video](https://youtu.be/htL6xEpWaME?list=PLhQjrBD2T381nVyoR_UDSBw-z1SKD4qwp)
+    - [Notes](notes/grading.md)
+    - [Slides](https://www.dropbox.com/sh/bq8cir43m2n6rvq/AAATm-r9TZFnBsR1OepNgZyva?dl=0&preview=Grading.pdf)
