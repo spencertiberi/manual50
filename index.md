@@ -47,3 +47,7 @@ title: CS50 AP Playbook
     - [Video](https://www.youtube.com/watch?v=LPgtdQew56c&list=PLhQjrBD2T381nVyoR_UDSBw-z1SKD4qwp&index=6)
     - [Notes](notes/cs50tools)
     - [Slides](https://www.dropbox.com/sh/bq8cir43m2n6rvq/AAATm-r9TZFnBsR1OepNgZyva?dl=0&preview=CS50+Tools.pdf)
+  - Diversity Recruiting
+    - [Video](https://youtu.be/qsjQ368_OL8?list=PLhQjrBD2T381nVyoR_UDSBw-z1SKD4qwp)
+    - [Notes](notes/diversityrecruiting)
+    - [Slides](https://www.dropbox.com/sh/bq8cir43m2n6rvq/AAATm-r9TZFnBsR1OepNgZyva?dl=0&preview=CS50+%40+Archer.pdf)
