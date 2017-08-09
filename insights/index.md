@@ -52,3 +52,5 @@ _Tip: In a pinch, a single bluetooth speaker can work wonders if the classroom d
 Community partnerships can be very nifty for implementing CS50 AP at your school. Not only can they help your brand for the course, they can become very helpful for when you plan events. You may be surprised at company connections that already exist in the local community through your students. In general, it never hurts to ask. Often asking for a donation or discount from a local company yields satisfactory results.
 
 [CS50.org/map](link:https://cs50.org/map)
+
+ [scholarships](https://cs50.ly/scholarships)

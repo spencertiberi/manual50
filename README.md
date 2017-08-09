@@ -25,15 +25,6 @@ Forked from https://github.com/cs50/manual50
 ## TODO
 
 - Revise AP workshop markdown
-  - Curriculum
-    - Include syllabus
-  - CS50 Fair
-    - Move create task info
-    - Invite people from the community
-    - People to speak?
-    - "Assign volunteers roles..."
-    - Student committees
-    - Remove release forms
   - Grading
     - Ping Doug about grading guidelines
       - Progress cs50.tf

@@ -6,7 +6,7 @@ layout: left
 
 ## What is it?
 
-The culminating event for CS50 at Harvard and Yale is the CS50 fair, in which students showcase their final projects. The fair is a huge event, in which members of the community are invited to see what CS50 students have accomplished. At the high school level, the fair can be used to showcase the AP exam's *Create Performance Task*. This is an opportunity for you to publicize CS50 AP and the amazing work your students have achieved, especially to younger students, who may be encouraged to take your course.
+The culminating event for CS50 at Harvard and Yale is the CS50 fair, in which students showcase their final projects. The fair is a huge event, in which members of the community are invited to see what CS50 students have accomplished. At the high school level, the fair can be used to showcase the AP exam's **Create Performance Task**. This is an opportunity for you to publicize CS50 AP and the amazing work your students have achieved, especially to younger students, who may be encouraged to take your course.
 
 <img src="cs50fair.jpg" alt="cs50 fair" width="500">
 
@@ -20,13 +20,16 @@ A fair at the high school level can be held during the school day, or in the eve
 
 Once the date for the fair has been decided, postcards can be sent to other local schools (including elementary and middle schools) as Save the Dates. This is a great field trip opportunity for younger students. Follow up with emails as well, which can be sent as reminders as the date approaches. Send a letter/email home to parents, inviting them as well. A sample letter by Angela Yake can be found [here](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxjczUweGNlZGFydmlsbGV8Z3g6NmY1OTE4MGE2MjA2NjUzNg).
 
-In addition, do not hesitate to invite other community members, from state officials to faculty from local universities. A sample invitation by Angela Yake is [here](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxjczUweGNlZGFydmlsbGV8Z3g6NjJmZDg0ZGM2ZGE5MWUyYw).
+In addition, do not hesitate to invite other community members, from state officials to faculty from local universities. A sample invitation by Angela Yake is [here](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxjczUweGNlZGFydmlsbGV8Z3g6NjJmZDg0ZGM2ZGE5MWUyYw). Consider bringing in local leaders in technology or education to speak. Bringing speakers to your CS50 fair can help galvanize students and create an engaging atmosphere.
 
 Take full advantage of social media. If your school's social media policies allow, create a Facebook event (or have students create one) so that students can invite their friends and family. The same applies for creating a hashtag so that students can share the event on social media.
+
+### Photobooth
 
 CS50 uses a photobooth that allows students to take snapshots to be printed immediately, and then posts those pictures on Facebook after event so that students can tag themselves.
 
 In addition, get photograph coverage for the event by having someone walk around during the fair. A great way to get a volunteer for this is to advertise for students interested in photography. If the photographs will be posted online/shared, make sure to have students complete the required release forms.
+
 
 ### Location
 
@@ -34,12 +37,10 @@ Secure a location as soon as the date has been decided. Possibilities include th
 
 Things to consider when choosing a location:
 
-* If students will be showcasing web-based final projects, they will need either WiFi, or wired connection. Make sure that students will have internet access on the day of the fair. Alternatively, the offline CS50 IDE can be used, but students will need to test to make sure everything still works
-* Students may need access to outlets/extension cords
+- If students will be showcasing web-based final projects, they will need either WiFi, or wired connection. Make sure that students will have internet access on the day of the fair. Alternatively, the offline CS50 IDE can be used, but students will need to test to make sure everything still works
+- Students may need access to outlets/extension cords
 
 ### Funding/Grants
-
-You may want to check out [scholarships](https://cs50.ly/scholarships) for your CS50 Fair.
 
 There are many sources from which you can try to get funding (either monetary or in materials). Teachers have reported being able to get t-shirts (which say “I took CS50 school name”) for free or at a significant discount from their local t-shirt printing shop. We’ve also had success contacting local businesses, who provide sponsorship in exchange for publicity.
 
@@ -53,15 +54,15 @@ Tables should be set up so that students have a place to present. If you don't h
 
 #### Decorations
 
-* Balloons and streamers can help provide a festive atmosphere.
-* Posters/Banners are nice to have as well. CS50 uses [echodgraphics](http://www.echodgraphics.com/), but there may be a better local alternative. If ordering, order 2 months early to avoid express shipping.
-* Fliers with a list of student projects are handy to have at the fair, and can be a nice memento.
+- Balloons and streamers can help provide a festive atmosphere.
+- Posters/Banners are nice to have as well. CS50 uses [echodgraphics](http://www.echodgraphics.com/), but there may be a better local alternative. If ordering, order 2 months early to avoid express shipping.
+- Fliers with a list of student projects are handy to have at the fair, and can be a nice memento.
 
 #### Giveaways
 CS50 Fairs at Harvard and Yale involve giveaways of CS50 "swag" to encourage other students to come. This is completely optional, but if you have the resources, consider
 
-* Stress Balls (contact [ap@cs50.net](mailto:ap@cs50.net) for CS50 branded ones)
-* T-Shirts
+- Stress Balls (contact [ap@cs50.net](mailto:ap@cs50.net) for CS50 branded ones)
+- T-Shirts
 
 #### Refreshments
 
@@ -87,83 +88,78 @@ A social media presence at events not only excites current students but it can a
 
 ### 6 Months Before
 
-* Secure a date and location for the fair.
-* Send out Save the Dates to local schools, public officials, and student families.
+- Secure a date and location for the fair.
+- Send out Save the Dates to local schools, public officials, and student families.
 
 ### 4 Months Before
 
-* Assign preproposal form.
-* Arrange for tables/tablecloths/banners/decorations.
+- Arrange for tables/tablecloths/banners/decorations.
 
 ### 3 Months Before
 
-* Assign proposal form.
-* Email local sponsors.
+- Email local sponsors.
 
 ### 1 Month Before
 
-* Begin social media push, such as creating a Facebook Event.
-* Have students take responsibilities for different aspects of the event such as food, others of posters, others of table setup, cleanup, etc.
-* Check in with student projects or have them submit status reports.
+- Begin social media push, such as creating a Facebook Event.
+- Assign volunteers roles for different aspects of the event such as food, others of posters, others of table setup, cleanup, etc.
 
 ### 2 Weeks Before
 
-* Make sure student committees are on track.
-* If ordering custom shirts or gear for your event, contact the company/site you plan to use and ensure they can deliver to your specifications prior to the event.
+- If ordering custom shirts or gear for your event, contact the company/site you plan to use and ensure they can deliver to your specifications prior to the event.
 
 ### 1 Week Before
 
-* Prepare and hang posters advertising the event.
-* Have students create individual posters summarizing their projects.
-** Optional: Ask students to answer some questions on their posters, such as "greatest challenge" or "greatest accomplishment."
-* Request and keep track of RSVPs.
-* Have students sign [release forms](http://cdn.cs50.net/ap/1617/events/puzzles/1617_release.pdf) as to be able to share photos and videos with us and so we may share them too
-* Organize how the student projects will be laid out on tables. A simple way is to label each table with a number, and then assign each project a number.
+- Prepare and hang posters advertising the event.
+- Have students create individual posters summarizing their projects.
+  - Optional: Ask students to answer some questions on their posters, such as "greatest challenge" or "greatest accomplishment."
+- Request and keep track of RSVPs.
+- Organize how the student projects will be laid out on tables. A simple way is to label each table with a number, and then assign each project a number.
 
 ### The Night Before
 
-* Ensure that all set up materials have arrived. If balloons are being used, blow them up.
-* If you have access to your venue, have volunteers set up tables/banners/signage/non-perishables the night before
-* If you are using a photobooth, set that up.
+- Ensure that all set up materials have arrived. If balloons are being used, blow them up.
+- If you have access to your venue, have volunteers set up tables/banners/signage/non-perishables the night before
+- If you are using a photobooth, set that up.
 
 ### The Day Of
 
 #### 2 Hours Before
 
-* Make sure volunteers have arrived.
-* If tables etc have not been set up the night before, set them up now.
-* Make sure people handling check-in know what they will be doing.
+- Make sure volunteers have arrived.
+- If tables etc have not been set up the night before, set them up now.
+- Make sure people handling check-in know what they will be doing.
 
 #### 1 Hour Before
 
-* Begin check-in of students and direct them to their proper places.
-* Make sure food/water is set up.
+- Begin check-in of students and direct them to their proper places.
+- Make sure food/water is set up.
 
 #### 15 Minutes Before
 
-* Start music
-* Make sure all volunteers in their place
-** Optional: Designate volunteers as greeters, who hand out pamphlets and direct people to proper areas
-* Make sure all students are at the correct table
-* Make sure photographer has arrived
+- Start music
+- Make sure all volunteers in their place
+  - Optional: Designate volunteers as greeters, who hand out pamphlets and direct people to proper areas
+- Make sure all students are at the correct table
+- Make sure photographer has arrived
 
 #### Start Time
 
-* Walk around putting out fires (hopefully not literally).
-* Be sure to take lots of pictures and video if possible!
+- Walk around putting out fires (hopefully not literally).
+- Be sure to take lots of pictures and video if possible!
 
 #### 1 Hour In
 
-* Make sure refreshments are still stocked and not running low.  It's a great idea to delegate this role.
+- Make sure refreshments are still stocked and not running low.  It's a great idea to delegate this role.
 
 #### 2 Hours In
 
-* Take some time to talk to parents/community members about your students!
+- Take some time to talk to parents/community members about your students!
 
 #### After Completion
 
-* Ensure that all rental items are returned on time
-* Make sure volunteers have arrived to clean up
-* Post pictures on social media
+- Ensure that all rental items are returned on time
+- Make sure volunteers have arrived to clean up
+- Post pictures on social media
 
 Many thanks to Margaret Tanzosh and Angela Yake for sharing their experiences and resources to be included in this playbook.

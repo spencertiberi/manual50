@@ -14,7 +14,7 @@ However, in a high school setting, teachers typically opt for a five- or six-hou
 
 The CS50 AP Hackathon is an opportunity for students to synthesize and expand on what they've learned during the course. It's a great opportunity for students to dive deeper into the AP CS Principles **Create Task**, as well as publicize your CS50 AP class. However, it can also be used as an intense problem solving session that helps reenergize students about the course. As such, we suggest that teachers hold multiple Hackathons throughout the semester.
 
-<img src="hackathon2.jpg" alt="hackathon" width="500">
+<img src="hackathon3.jpg" alt="hackathon" width="500">
 
 ## Things to Consider When Planning a CS50 AP Hackathon
 ### Publicity
@@ -77,10 +77,10 @@ Definitely order food the at night before, at least; the order is large and they
 
 So far we have our attendees and funding covered, let’s talk venue. Decide on a space early on. A gym-like area with lots of open space often works well. Take note of how much signage you’ll need to fill the space. Signage should direct students to:
 
-* Sign-in when they show up.
-* Bathrooms.
-* Food options.
-* Other rooms that are part of the event.
+- sign-in when they show up
+- bathrooms
+- food options
+- other rooms that are part of the event
 
 If access to the building is secured, send over a guest list ahead of time, for access. Decide on table layout before setting up and figure out how to distribute power cords through out the space. Contact your school’s grounds keepers or the like to have them set up power so as not to short circuit the venue. Also make note to talk to network folks to ensure there’ll be sufficient internet bandwidth during the event.
 
@@ -122,49 +122,44 @@ Also, be sure to notify school security about the event. Many schools have alarm
 
 ### 6 Months Before
 
-* Secure a date and location for the Hackathon.
-* Assemble a committee (not your full list of volunteers) who will help you with the event.
-* Hold a meeting where you go over do further brainstorming and delegate responsibilities.
+- Secure a date and location for the Hackathon.
+- Assemble a committee (not your full list of volunteers) who will help you with the event.
+- Hold a meeting where you go over do further brainstorming and delegate responsibilities.
 
 ### 4 Months Before
 
-* Assign the [pre-proposal form](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxjczUweGNlZGFydmlsbGV8Z3g6Nzc5NDc1YjNkZTlhMWFiMw) to students to see what students plan to be working on during the event.
-* Show students some cool projects that have been done in the past at your own school or the CS50 youtube channel.
-* Arrange for tables, power cords, banners, and decorations.
+- Show students some cool projects that have been done in the past at your own school or the CS50 youtube channel.
+- Arrange for tables, power cords, banners, and decorations.
 
 ### 3 Months Before
 
-* Assign the [proposal form](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxjczUweGNlZGFydmlsbGV8Z3g6Nzc5NDc1YjNkZTlhMWFiMw)
-* Email local sponsors.
-* Think about what food you want, and reach out to these places for discounts.
+- Email local sponsors.
+- Think about what food you want, and reach out to these places for discounts.
 
 ### 1 Month Before
 
-* Begin social media push.
-* Create Facebook Event.
-* Have students take responsibilities for different aspects of the event.
-* For example, some students should be in charge of food, others of posters, others of table setup, cleanup, etc.
-* Check in with student projects or have them submit status reports.
-* Send out a form to your school asking for RSVPs to the Hackathon. On the form, get dietary information.
+- Begin social media push.
+- Create Facebook Event.
+- Have students take responsibilities for different aspects of the event.
+  - For example, some students should be in charge of food, others of posters, others of table setup, cleanup, etc.
+- Send out a form to your school asking for RSVPs to the Hackathon. On the form, get dietary information.
 
 ### 2 Weeks Before
 
-* Make sure student committees are on track.
-* Start a unit for students on how to collaborate effectively.
-* Hold in-class time for students to get started on their projects.
+- Start a unit for students on how to collaborate effectively.
 
 ### 1 Week Before
 
-* Call the place(s) you're getting food from and place your orders. Ideally, have them deliver the night of.
+- Call the place(s) you're getting food from and place your orders. Ideally, have them deliver the night of.
 
 ### The Night Before
 
-* Ensure that all set up materials have arrived. If balloons are being used, blow them up.
+- Ensure that all set up materials have arrived. If balloons are being used, blow them up.
 
 ### The Day Of
 
-* Set up location with tables/decorations/food/power cords.
-* Put out fires (hopefully not literal ones).
+- Set up location with tables/decorations/food/power cords.
+- Put out fires (hopefully not literal ones).
 
 
 Many thanks to Margaret Tanzosh and Angela Yake for sharing their experiences and resources to be included in this playbook.
