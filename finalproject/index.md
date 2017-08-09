@@ -1,3 +1,7 @@
+---
+layout: left
+---
+
 # CS50 Final Projects
 
 ## Student Projects
