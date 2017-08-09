@@ -58,7 +58,7 @@ _Tip 2: We typically order pizza assuming 3 slices/person. Sometimes that oversh
 
 _Tip 3: Definitely order the night before; the order is large and they will appreciate the lead time. Schedule delivery for at least 30 minutes before the doors are opened.  Food is usually late with large orders, so be sure to request the food to be delivered before the time you actually do want it!_
 
-_Tip 4: We usually order one large-sized veggie platter for every 20 or so pizzas. College kids are porbably more health-consious than high schoolers, though!_
+_Tip 4: We usually order one large-sized veggie platter for every 20 or so pizzas. College kids are probably more health-conscious than high schoolers, though!_
 
 _Tip 5: Bulk candy and beverages from Costco can be handy.  Depending on what's best for your school, either canned soda at two cans/person or two-liter bottles at one bottle/four people is a good estimate._
 
