@@ -8,6 +8,7 @@ It is a playbook for bringing CS50 AP to schools. It provides guidance on runnin
 ### Markdown Style
 - All md files start with a H1 and a subsequent H2.
   - Only use H1 at the top.
+- Between sections and H5, be sure to insert a line using `---`.
 - All mentions of command-line programs like `check50` should be formatted as code.
 - Be sure to include toc to the left of each page using
 
@@ -23,5 +24,4 @@ Forked from https://github.com/cs50/manual50
 
 ## TODO
 
-- Edit reference sheets
-- Create overview of events
+- Revise workshop notes

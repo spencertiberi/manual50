@@ -84,6 +84,8 @@ layout: left
 - Grade each axis in as much of a vacuum as you can.
   - For example, when grading for Correctness, ignore Style and Design.
 
+---
+
 ##### Five Point Scale
 - CS50 uses a Five Point Scale to grade the Three Axes.
 
@@ -101,6 +103,8 @@ layout: left
 - It's hard to instill in students that 3 is a good score.
   - Could only use Best, Better, etc. instead of numbers.
 
+---
+
 ##### Correctness
 - "To what extent is your code consistent with our specifications and free of bugs?"
 
@@ -116,11 +120,10 @@ layout: left
 - Students have access to `check50` for many of CS50’s problems, and are encouraged to use it to benchmark their programs.
 - `check50` is used to grade correctness, but its output should be treated as suggestive, not determinative.
 
+---
+
 ##### Design
 - “To what extent is your code written well (i.e., clearly, efficiently, elegantly, and/or logically)?”
-
-<img src="design5.png" alt="design5" width="600">
-- 3 is a great place to be in terms of design.
 - Hardest for students to understand, so its important to model what good design looks like.
 - The most subjective of the three axes.
 - Amorphous, evolving. What may have once been considered good design may now generally be considered poor.
@@ -229,8 +232,39 @@ for(int i = 0; i < DENOMINATIONS; i++)
 }
 ```
 
+###### Design and the Five Point Scale
+<img src="design5.png" alt="design5" width="600">
+- 3 is a great place to be in terms of design.
+
+---
+
 ##### Style
 - "To what extent is your code readable (i.e., commented and intended with variables aptly named?”
+- When students have good style, its easier to read.
+- Encourage students to comment their code early in the school year.
 - The next-most subjective of the three axes, though we have a recommended style guide.
 - Students have access to `style50`, and are encouraged to use it to benchmark their programs for good style against our style guide.
+  - `style50` looks for a 5:1 ratio of code to comments.
 - Used to grade style but, like `check50`, its output should be treated as suggestive but not determinative.
+- Questions to consider (among others):
+  - Can I easily tell (via braces/indentation) the boundaries of each block of code?
+  - Is it clear what this variable does, based on its name? (😂 💩 😤 )
+    - Accurately named variables can help students fix problems sooner.
+  - If I didn’t understand C code, would I be able to tell what is happening based on comments alone?
+  - Are there so few or so many comments that I am distracted by their presence or absence?
+    - If every other line contains a comment, it can be a bit much.
+  - If you can answer yes to any of those questions, a perfect style score is probably not in the cards.
+- Quickly do students realize these are easy points to earn.
+- Good style makes coding errors much easier to spot and fix!
+
+###### Style and the Five Point Scale
+<img src="style5.png" alt="style5" width="600">
+- 4 & 5 are the goal.
+  - well-named variables
+  - sufficient comments
+- 3 is where improvement can be made.
+- 0, 1, & 2 are for poor style
+  - odd indentation
+  - no comments
+  - bad variable names
+  - magic numbers
