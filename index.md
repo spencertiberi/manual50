@@ -20,7 +20,6 @@ title: CS50 AP Playbook
     - [CS50 Fair](events/cs50fair)
 - Resource Reference Sheets
     - [`check50`](resources/pdf/check50.pdf)
-    - [CS50.me](resources/pdf/cs50me.pdf)
     - [CS50.tv](resources/cs50tv.pdf)
     - [CS50 IDE](resources/pdf/cs50ide.pdf)
     - [CS50 Quiz Bank](resources/pdf/cs50quizbank.pdf)
@@ -55,5 +54,5 @@ title: CS50 AP Playbook
     - [Slides](https://www.dropbox.com/sh/bq8cir43m2n6rvq/AAATm-r9TZFnBsR1OepNgZyva?dl=0&preview=CS50+%40+Archer.pdf)
   - Grading and Academic Honesty
     - [Video](https://youtu.be/htL6xEpWaME?list=PLhQjrBD2T381nVyoR_UDSBw-z1SKD4qwp)
-    - [Notes](notes/grading.md)
+    - [Notes](notes/grading)
     - [Slides](https://www.dropbox.com/sh/bq8cir43m2n6rvq/AAATm-r9TZFnBsR1OepNgZyva?dl=0&preview=Grading.pdf)
