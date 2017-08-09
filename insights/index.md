@@ -23,9 +23,9 @@ Also, CS50 is always willing to aid in convincing administration to properly sup
 
 Not unlike many CS50 AP students, you may find yourself on the Less Comfortable side of things with teaching a particular concept. This is absolutely okay! We've all been there. We at CS50 are here to help provide you with as many resources as possible. Here are some of the resources at your disposal:
 
-* [**CS50 AP Portal**](https://ap.cs50.net/) for access to AP specific resources such as problems and presentations.
-* [**Discuss50**](https://openid.edx.org/openid/provider/login/?openid.assoc_handle=%7BHMAC-SHA1%7D%7B595e5112%7D%7BV3n3%2Fw%3D%3D%7D&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.sreg=http%3A%2F%2Fopenid.net%2Fextensions%2Fsreg%2F1.1&openid.realm=http%3A%2F%2Fapps.cs50.edx.org%2F&openid.return_to=http%3A%2F%2Fapps.cs50.edx.org%2Freturn%2F1%3Fjanrain_nonce%3D2017-07-06T18%253A00%253A24ZwHxugj&openid.sreg.required=email%2Cfullname) (soon to undergo upgrades!) to communicate with CS50 AP staff and educators from around the world.
-* [**CS50.tv**](http://cs50.tv) for access to resources such as lectures and problem sets from previous iterations of CS50 at Harvard.
+- [**CS50 AP Portal**](https://ap.cs50.net/) for access to AP specific resources such as problems and presentations.
+- [**Discuss50**](https://openid.edx.org/openid/provider/login/?openid.assoc_handle=%7BHMAC-SHA1%7D%7B595e5112%7D%7BV3n3%2Fw%3D%3D%7D&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.sreg=http%3A%2F%2Fopenid.net%2Fextensions%2Fsreg%2F1.1&openid.realm=http%3A%2F%2Fapps.cs50.edx.org%2F&openid.return_to=http%3A%2F%2Fapps.cs50.edx.org%2Freturn%2F1%3Fjanrain_nonce%3D2017-07-06T18%253A00%253A24ZwHxugj&openid.sreg.required=email%2Cfullname) (soon to undergo upgrades!) to communicate with CS50 AP staff and educators from around the world.
+- [**CS50.tv**](http://cs50.tv) for access to resources such as lectures and problem sets from previous iterations of CS50 at Harvard.
 
 ## Suggested Technology
 
@@ -51,6 +51,8 @@ _Tip: In a pinch, a single bluetooth speaker can work wonders if the classroom d
 
 Community partnerships can be very nifty for implementing CS50 AP at your school. Not only can they help your brand for the course, they can become very helpful for when you plan events. You may be surprised at company connections that already exist in the local community through your students. In general, it never hurts to ask. Often asking for a donation or discount from a local company yields satisfactory results.
 
-[CS50.org/map](link:https://cs50.org/map)
+Connecting with other CS50 teachers is also a great strategy. These connections can be used to create larger and more dynamic CS50 events. Check out [CS50.org/map](link:https://cs50.org/map) to see where other CS50 teachers call home.
 
- [scholarships](https://cs50.ly/scholarships)
+## Taking CS50
+
+In addition to taking CS50x, you can take CS50 through the Harvard Extension School as CSCI E-50. For scholarships to do so, check out [https://cs50.ly/scholarships](https://cs50.ly/scholarships).
