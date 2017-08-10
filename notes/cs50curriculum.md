@@ -7,43 +7,43 @@ layout: left
 ## CS50 Curriculum
 
 ### Introductions
-- All CS50 AP Workshop materials are on [cs50.ly/july-materials](cs50.ly/july-materials)
+- All CS50 AP Workshop materials are on [cs50.ly/july-materials](cs50.ly/july-materials).
 - Doug Lloyd introduces himself and discusses his background with CS50.
   - Graduated from Harvard in 2009.
   - Took CS50 in fall of 2006.
   - Started as a Math major, but eventually switched to CS.
   - Joined CS50 as a TF during David Malan's first year teaching the class.
-  - Went to Law School and was in solo practice.
-  - Had more fun helping CS50 than practicing law, so came back to CS50 to help develop CS50 AP
+  - Went to law school and was in solo practice.
+  - Had more fun helping CS50 than practicing law, so came back to CS50 to help develop CS50 AP.
 
 ### CS50 in a Box
 - CS50 is highlighted by 3 core elements:
-  - accessibility
+  - Accessibility
     - Students come to class because its fun to be in class.
-  - culture
+  - Culture
     - Helps make students want to come to class, rather than feeling obligated to attend.
-  - rigor
+  - Rigor
     - Make sure to match what CS50 does at the College level and not watering material down.
 - 2 models for bringing CS50 to your school:
-  - adopt
+  - Adopt
     - This means using CS50's materials as primary resources for your students.
       - Students watch CS50 lectures, shorts, and work on CS50 problem sets.
       - The teacher's role is to circulate amongst students and helping them debug problems.
       - It's a flipped model.
-  - adapt
+  - Adapt
     - Instead of having students watching CS50 lectures, teachers recreate them using the lectures as resources.
   - It's about a 50-50 split between teachers who adopt and adapt the curriculum.
 
 ### CS50 Tools
-- grading tools
-  - check50 - autogrades code for correctness/functionality
+- Grading tools
+  - `check50` - autogrades code for correctness/functionality
     - Students can run 6-10 tests written by CS50 staff to check the correctness of their program.
-    - CS50 also uses check50 to grade for correctness, so students can know what to expect.
-    - You can override grades in the case of corner cases.
-    - Will run automatically and populate student gradebooks when a student runs submit50.
-  - style50 - autogrades code for consistency with [CS50 style guide](https://manual.cs50.net/style)
+    - CS50 also uses `check50` to grade for correctness, so students can know what to expect.
+    - You can override grades for corner cases.
+    - Will run automatically and populate student gradebooks when a student runs `submit50`.
+  - `style50` - autogrades code for consistency with [CS50 style guide](https://manual.cs50.net/style)
     - Makes sure students are adhering to consistent style, which makes the teacher's job easier.
-  - render50 - for generation of syntax-highlighted PDFs of student code
+  - `render50` - for generation of syntax-highlighted PDFs of student code
     - If you prefer writing on students code when grading, this will makes nice PDFs for you to use.
   - Grading guidelines for each problem
     - Created about 35-40 additional problems for CS50 AP.
@@ -63,7 +63,7 @@ layout: left
         - You see all student assignments here, grade by student or problem, and provide comments on GitHub.
         - When you add a comment on GitHub, the owner (the student) gets a notification of the comment.
           - This can start a nice dialog.
-- learning tools
+- Learning tools
   - CS50 IDE - integrated coding environment preconfigured for CS50
     - It is a virtual machine in the cloud.
       - As long as students have access to a browser, they can access their work.
@@ -75,9 +75,9 @@ layout: left
     - For students with no access to internet at home, they can download an offline version of the IDE using Docker.
       - They can sync back up to the online version of the IDE when they get to school.
   - [reference.cs50.net](reference.cs50.net)
-    - This is a friendlier version of man pages.
-      - Man refers to linux manual pages.
-    - Less Comfortable and More Comfortable presentation modes.
+    - This is a friendlier version of `man` pages.
+      - `man` refers to linux manual pages.
+    - Contains Less Comfortable and More Comfortable presentation modes.
     - Includes code examples.
     - Covers entire C Standard Library and the CS50 Library.
     - Currently undergoing a face-lift.
@@ -103,12 +103,12 @@ layout: left
     - Good opportunity to collaborate with other teachers.
   - study.cs50.net
     - Extra practice problems and slides for students.
-  - CS50 Quizbank
+  - CS50 Quiz Bank
     - Students can go to see questions used by CS50 in the past 10 years.
     - Teachers can use it to create quizzes as pdf or word documents.
 
 ### Resources
-- lectures
+- Lectures
   - Notes, transcripts, and videos excerpted topically.
   - CS50 Video Player
     - Picture in picture with current slides displayed.
@@ -119,46 +119,46 @@ layout: left
     - VR mode available.
       - Fun way to get students more tied to Harvard.
       - Can buy Google Cardboard or VR headset to watch.
-- practice exercises
+- Practice Exercises
   - The CS50 staff is working on this over the summer.
     - Goal is to have 8-10 exercises per topic.
   - With code examples and slides as well.
-- shorts
+- Shorts
   - Between 5-25 minutes long, where Doug digs deeper into concepts covered in lecture.
-- problems
+- Problems
   - 8 problem sets on campus at Harvard.
   - There are 50 or so problems for CS50 AP in addition to the problem sets from CS50 at Harvard.
   - Comes with specifications, guidelines, solutions (for teachers).
-- sample schedules
+- Sample schedules
   - General guide for teaching the curriculum depending on the number of school weeks.
-- curriculum mappings
+- Curriculum mappings
   - CS50 AP is fully mapped to AP CSP (also an endorsed provider), CSTA, and CTE.
   - Let the CS50 AP staff at [ap@cs50.harvard.edu](mailto:ap@cs50.harvard.edu) know if you need help mapping the CS50 AP curriculum to particular standards.
 - CS50 Explained
   - In a Mystery Science Theater 3000 style, David and Doug watch CS50 lectures months after filming.
-    - They discuss what worked, what didn't work, why CS50 does things the way it does, and other behind the scenes insight.
-- walkthroughs
+    - They discuss what worked, what didn't work, why CS50 does things the way it does, and other behind-the-scenes insight.
+- Walkthroughs
   - Designed to unstick students struggling with approaching the course's problems.
   - First line of defense when a student doesn't know what to do.
   - Not a lot of code is given away on the videos which are lead by Zamyla Chan.
   - Embedded into problem specifications.
-- postmortems
+- Postmortems
   - Explanations of the course's problems intended to be viewed after being turned in.
   - Students also have access to solution code.
-  - Help students have a last opportunity to know concepts from problems.
+  - Gives students have a last opportunity to know concepts from problems.
   - The videos and code are protected by login.
-- cs50.tv
-  - If there is a resource you think exists but can't find, it is likely at cs50.tv
+- [CS50.tv](http://cs50.tv/).
+  - If there is a resource you think exists but can't find, it is likely at CS50.tv.
   - You can see all lectures, shorts, walkthroughs, seminars, and problem sets from the past 10 years of CS50.
-- seminars
+- Seminars
   - Hour long crash courses in topics beyond the CS50 curriculum to aid in student final projects and interests.
   - CS50 is meant to be a terminal course for some people, so these seminars can provide insight into life after CS50.
-- academic honesty
-  - A lengthy explanation of academic honest exists in the syllabus and atop problems
+- Academic honesty
+  - A lengthy explanation of academic honest exists in the syllabus and atop problems.
     - To help students understand the difference between academic and professional practices.
   - "... when asking for help, you may show your code to others, but you may not view theirs..."
   - Some resources used at Harvard to check for cheating are [etector.org](etector.org) and [moss.stanford.edu](moss.stanford.edu).
-- reading
+- Reading
   - CS50 has no required reading materials.
   - Here are some suggested reading by increasing complexity:
     - Absolute Beginner’s Guide to C (ISBN 0-789-75198-4)

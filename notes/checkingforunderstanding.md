@@ -7,7 +7,7 @@ layout: left
 ## Checking for Understanding
 
 ### Introduction
-- Doug highlights the importance of checking for understanding, particularly for teachers who adopt CS50 materials for a flipped classroom environment.
+- Doug Lloyd highlights the importance of checking for understanding, particularly for teachers who adopt CS50 materials for a flipped classroom environment.
 - For a later session demonstrating a CS50 section, Doug asks the audience, by a show of hands, whether they would rather learn early material or web-based material.
 
 ### What is Checking for Understanding?
@@ -20,7 +20,7 @@ layout: left
 
 ### Challenges
 - Compounding: material build on itself more than in many other subjects
-  - Material in a CS class is very varied.
+  - Material in a CS class is extremely varied.
 - Theoretical and practical knowledge: knowing the concept ≠ knowing how to write code for it.
   - For example, the concept of creating a hash table may be investigated in a short, but the code implementation is still up to the student.
   - Goal of CS50 teachers is to not give away too much of the practical implementation.
@@ -31,30 +31,30 @@ layout: left
   - Important to make sure that a student's different thinking and implementation aren't hampered by teacher thinking.
 
 ### Strategies
-- frequent questioning
-  - uncomfortable silences
+- Frequent questioning
+  - Uncomfortable silences
   - Socratic-style
     - Having conversation back and forth between the teacher and student.
-- practice problems
+- Practice problems
   - They are not the basics of actual assignments, but steps in the right direction.
-- resources to help reinforce concepts or refresh memory
+- Resources to help reinforce concepts or refresh memory
   - CS50 recourses are available in a lot of different flavors:
     - Video, audio, interactive resources, ...
-- use both non-code and code examples in class
+- Use both non-code and code examples in class
   - This is important in a CS50 classroom.
   - David Malan will show code examples in lecture, whereas Doug will provide illustrations in shorts to think about concepts differently.
     - For example, to explain stepping into an array, discuss finding mail in post office boxes.
     - The point is to have students see the parallels between the two explanations.
-- before revealing answer, ask for alternative
+- Before revealing answer, ask for alternative
   - Whether or not students give the right answer in discussion, be sure to field for more solutions from other students.
     - Remember, there's more than one correct solution to a problem.
-- after showing answer, ask for alternative solutions
+- After showing answer, ask for alternative solutions
   - Again, there's more than one correct solution to a problem.
-- discuss tradeoffs of different approaches
+- Discuss tradeoffs of different approaches
   - CS50 does this a lot around problem set 3 at Harvard.
-    - searching and sorting algorithms
+    - Searching and sorting algorithms
       - Why is one better than the other?
-  - hash tables vs tries
+  - Hash tables vs tries
     - Tries take up more memory.
     - Hash tables take more to search.
 
@@ -80,12 +80,12 @@ layout: left
   - Instills skills in debugging.
 - Let students figure out your mistake.
   - It's great to wait for students to see your mistake.
-- Encourage discussion and guessing
+- Encourage discussion and guessing.
   - Create a community to foster this.
 
 ### Feedback
 - It's challenging to teach undergraduate staff how to give quality feedback.
-- not feedback:
+- Not feedback:
   - "You might want to use a for loop instead here."
     - Just projecting an opinion but not defending it.
   - "Design: 3 out of 5"
@@ -93,8 +93,8 @@ layout: left
   - "Great!"
   - These are actually advice and value judgements.
 - Feedback in a CS50 Classroom
-  - check50 assesses correctness for you automatically, giving you more time to focus on design.
-    - style50 will likewise grade style automatically.
+  - `check50` assesses correctness for you automatically, giving you more time to focus on design.
+    - `style50` will likewise grade style automatically.
     - Design is where CS50 focuses qualitative feedback and comments.
   - [CS50.me](https://cs50.me) and GitHub makes it easy to provide detailed comments on specific lines of code, and lets students engage in conversation about their code.
 - 7 Keys to Effective Feedback
@@ -110,15 +110,15 @@ layout: left
     6. Ongoing
     7. Consistent
       - Don't contradict previous advice.
-  - This is what CS50 staff try to keep in mind when providing feedback to students
+  - This is what CS50 staff try to keep in mind when providing feedback to students.
 
 #### Code Commenting Strategies
 - Keep on file detailed comments about common mistakes, easy to make note on students' code if you notice similar issues. (GitHub "Saved Replies")
-  - Saves time.
+  - Saves time
 - For each problem, best to offer multiple pluses and multiple deltas.
-  - pluses: things the student did well
-  - deltas: things the student should change
-- Common issues to look for: repetition of code, lack of clarity, more complexity than necessary.
+  - Pluses: things the student did well
+  - Deltas: things the student should change
+- Common issues to look for: repetition of code, lack of clarity, more complexity than necessary
   - Best to address these early when programs are smaller.
   - Instill the importance of clarity with variable names.
 
@@ -146,17 +146,17 @@ layout: left
 **Question 6: How long do students have to work on final projects?**
 - CS50 at Harvard gives the students 3 weeks.
   - The process involves several milestones:
-    - pre-proposal
-    - proposal
-    - status update
-    - hackathon
-    - submission
+    - Pre-proposal
+    - Proposal
+    - Status update
+    - Hackathon
+    - Submission
 - Often projects go beyond the scope of a teacher's knowledge, so teaching students the ability to Google is a must.
   - CS50 seminars can also help with this.
 
-**Question 7: Does CS50 have a AP CSP community in Piazza?**
+**Question 7: Does CS50 have an AP CSP community in Piazza?**
 - No, but CS50 AP has some platforms such as Slack that exist.
 - CS50 is looking into a Facebook group for AP students.
 
-**Questions 8: Does the CS50 Hackathon actually have a box items for set up?**
+**Questions 8: Does the CS50 Hackathon actually have a box of items for set up?**
 - Yes, there will be swag giveaways and instructions on how to run the event in the box.

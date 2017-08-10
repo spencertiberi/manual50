@@ -11,11 +11,11 @@ layout: left
 - Jolina Clement
   - Director of Educational Technology at the Archer School for Girls in Los Angeles, CA.
   - Taught for about 14 years in different environments.
-    - in Japan
-    - giving afterschool intervention
-    - performing arts
-    - special needs
-    - elementary public school
+    - In Japan
+    - Giving afterschool intervention
+    - Performing arts
+    - Special needs
+    - Elementary public school
   - Grew up in the Bay Area.
   - Jolina's mom taught at Cupertino High School
   - A music undergrad.
@@ -28,32 +28,31 @@ layout: left
 - Reasons to get students interested in CS:
   - There is a huge demand for CS skills.
   - Solving big problems requires people of all different backgrounds.
-  - Helping students to think differently.
+  - Helps students to think differently.
 
 ### Technology in Education
 - Seymour Papert is the godfather of technology in education.
   - Logo programming, created Lego Mindstorms, ...
-  - When you use technology you can only satisfy one side of the following triangle.
-
-    <img src="triangle.png" alt="triangle" width="400">
-    - serving the system
-      - data analysis
-    - serving the teacher
-      - smartboards
-      - learning management systems
-    - serving the students
+  - When you use technology you can only satisfy one side of the following triangle. <br>
+  <img src="triangle.png" alt="triangle" width="400">
+    - Serving the system
+      - Data analysis
+    - Serving the teacher
+      - Smartboards
+      - Learning management systems
+    - Serving the students
       - Give students the skills, training, and agency to be able to make something and participate in this world actively.
         - What teaching CS is about.
 
 ### Student Messaging
 - Students get a lot of messaging on programming these days.
-  - toys that help kids code
-  - summer camps
-  - listicles
-  - articles
-  - tv news
-  - people talking about how cool it is to be a programmer
-  - the prevalence of jobs
+  - Toys that help kids code
+  - Summer camps
+  - Listicles
+  - Articles
+  - TV news
+  - People talking about how cool it is to be a programmer
+  - The prevalence of jobs
 - To filter through all of this information, we need to focus on "Why" again.
 - “The computer is incredibly fast, accurate, and stupid. Man is unbelievably slow, inaccurate, and brilliant. The marriage of the two is a challenge and opportunity beyond imagination.”
   - The combination of tech and humanity is where the sweet spot is.
@@ -81,24 +80,24 @@ layout: left
   - Subjugation conditions people to be controlled.
     - Who do controlled students grow up to be? How do they vote?
 - "The most important thing that we can infuse in the next generation is creativity and confidence" - Ayah Bdeir, littleBits founder and CEO.
-  - Helping students explore and create things.
+  - Helping students explore and create things
   - Developing creating thinking
   - These traits come from Computer Science principals.
 
 ### Looping Back to Why
-- including people
+- Including people
   - The people who stand to gain the most from Computer Science are the ones:
-    - being marginalized
-    - being controlled
-    - who have something to say
+    - Being marginalized
+    - Being controlled
+    - Who have something to say
       - Which is everyone.
 
 ### CS50 at Archer
-- Erin Harris transistions to talking about how CS50 is ran at Archer.
-- The class make up of 8 students.
+- Erin Harris transitions to talking about how CS50 is ran at Archer.
+- The class is made up of 8 students.
   - 5 seniors, 1 junior, 1 sophomore, and 1 freshman.
   - Only 2 students have no previous programming experience.
-- The course is a science elective credit
+- The course is a science elective credit.
   - Archer doesn't offer AP Sciences.
     - No students took the AP exam.
     - Allowed students to take the AP exam on their own if desired.
@@ -128,27 +127,26 @@ layout: left
   - Javascript
 - One project had student create a robotic arm given art supplies, servos, and an Arduino.
   - Connected the project to the growing prosthetic industry.
-    - Highlights that computer science can be related to other fields.
-
+    - Highlights that computer science can be related to other fields.<br>
 <img src="arduino.png" alt="arduino arm" width="400">
 
 #### Things That Worked at Archer
-- class/group problem solving
+- Class/group problem solving
   - Students loved working on problems together.
-- real-world problems
+- Real-world problems
   - CS50 curriculum does a great job of focusing on real-world applications.
   - Girls think "Why are we learning this?" a lot.
     - Real-world problems get them engaged.
-- allowing students to resubmit any assignment
-- asking for feedback
+- Allowing students to resubmit any assignment
+- Asking for feedback
   - Erin asks for feedback twice during the year.
   - For example, Erin asked her students about how they felt working on problems alone and they expressed interest in collaboration.
 
 #### Things That Didn't Work
-- asynchronous learning
+- Asynchronous learning
   - This is especially true for girls.
     - They need to feel connected to their environment.
-- not front loading pair programming
+- Not front loading pair programming
   - Students didn't know how to properly work on code together.
 - CS50 AP culture hard to maintain
   - Events such as taking attendance and fire drills interrupt flow.
@@ -157,15 +155,12 @@ layout: left
 
 #### School Schedule
 <img src="archersched.png" alt="archer schedule" width="600">
-
 - 7-day rotating schedule
   - Students have 7 different classes that rotate to fill 5 periods each day.
   - X-Block are non-academic, creative opportunities to pursue something.
 
 #### CS Sequence
-
 <img src="archersequence.png" alt="archer sequence" width="600">
-
 - Coding in 6th grade used to be a language course.
 - In middle school, the students can look into Web, App, & Game Design or utilize the X-block to learn snippets of coding.
 - Advanced CS = CS50
@@ -193,37 +188,37 @@ layout: left
 - Over 40 students came to the event.
 - The focus of the hackathon was teen health.
   - Gave the students time to brainstorm and form ideas.
-- Obtained sponsorships from SnapChat and other organizations.
+- Obtained sponsorships from Snapchat and other organizations.
 - Swag and prizes were given out.
   - Prizes were given out to students based on 3 areas.
-    - technical proficiency
-    - marketability
-    - ambition
+    - Technical proficiency
+    - Marketability
+    - Ambition
 - For more information about this hackathon, check [xrds.org/hackathon](xrds.org/hackathon).
-- If your in the LA area, you are welcome to come next year.
+- If your in the LA area, you're welcome to come next year.
 
 #### Successes
-- projects that are low-floor, high ceiling
+- Projects that are low-floor, high ceiling
   - Important to make projects accessible but profound.
-- introduce CS in middle school
+- Introduce CS in middle school
   - Obtain student interest before they choose another track.
-- trick teachers into integrating CS into other courses
+- Trick teachers into integrating CS into other courses
   - A lot of teachers were interested in what was being taught through CS at Archer.
   - Archer gave teachers in-house professional development on CS.
   - Erin created a website where teachers could share what they are teaching.
-- science APs are not offered
+- Science APs are not offered
   - This was a success from a teacher’s perspective.
 
 #### Challenges  
-- science APs are not offered
+- Science APs are not offered
   - Students wanted to take AP tests and couldn't.
-- competing with arts electives
+- Competing with arts electives
   - It's hard to compete for time with all of students' interests.
   - Integration into other subjects is one solution to this.
-- scaffolding appropriately
+- Scaffolding appropriately
   - Don’t get too zealous!
     - Students may not be as excited about topics your interested in.
-- beyond high school
+- Beyond high school
   - Important to discuss impact of women in CS.
 
 ### Strategies for Inclusion in CS
@@ -236,36 +231,36 @@ layout: left
   - Affirm student’s accomplishments. Praise tenacity and effort.
     - Acknowledging your students helps students, particularly women and minorities, feel included.
   - Be more aware of your interactions.
-  - Be more transparent about our instructional choices so students don’t question if you’re singling them out.
+  - Be more transparent about your instructional choices so that students aren't questioning whether or not you’re singling them out.
   - Apologize when you mess up.
     - Create a culture of error.
   - Ask for feedback!
 
 ##### Curriculum
-- low floor, high ceiling
+- Low floor, high ceiling
   - Have extensions for projects.
-- real-world purpose
-- agency in their learning
-- class/group problem solving
-- share projects with community
+- Real-world purpose
+- Agency in their learning
+- Class/group problem solving
+- Share projects with community
   - Let students choose which projects to present.
     - Students form pride for their creations.
 
 #### What Works Outside the Classroom
-- providing low risk opportunities for anyone with any programming experience
+- Providing low risk opportunities for anyone with any level of programming experience
   - hackathons
-- curated list of summer STEM opportunities
-  - preferably free
+- Curated list of summer STEM opportunities
+  - Preferably free
   - Girls Who Code
-- unplugged CS Activities at community events
-  - pseudocoding events for family members
+- Unplugged CS Activities at community events
+  - Pseudocoding events for family members
   - This helps destigmatize this CS with different populations.
-- showcasing student artifacts & experiences
+- Showcasing student artifacts & experiences
   - Student creations are celebrated in the halls at Archer.
 
 #### Who Knows if this Works Yet?
-- teach colleagues some coding
+- Teach colleagues some coding
   - This creates normalcy and a sense of culture.
-- field trips
-  - art exhibits that involve tech
-  - tech companies
+- Field trips
+  - Art exhibits that involve tech
+  - Tech companies

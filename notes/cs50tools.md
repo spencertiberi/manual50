@@ -11,26 +11,26 @@ layout: left
   - Brian is a CS50 teaching fellow and both Chad and Brian work on CS50 software development.
 
 ### CS50 IDE
-- Integrated development environment (IDE) that lives in the cloud.
+- Integrated Development Environment (IDE) that lives in the cloud.
   - A place online where students can access, run, and edit their code.
   - Students can install additional packages and software into the IDE.
   - Can run code code in any language, not just C and Python.
   - Not tied to hardware, so students can access the IDE from any computer.
 
 #### Features
-- collaboration mode
+- Collaboration mode
   - Accessed by clicking the "Share" button in the menu bars.
   - You can invite someone to read/write access to your workspace.
   - Students can add other students for collaborative activities.
     - The code is highlighted based on who wrote it.
   - Students can also share their workspace with you, the teacher.
-- file revision history
+- File revision history
   - Go to the "File" menu and click on "View File Revision History."
   - A bar will appear above the file to show all the different saves on a timeline.
     - You can see all the historical versions of the code.
       - Nifty if you accidentally delete a file.
   - Useful for plagiarism detection as well.
-- presentation mode
+- Presentation mode
   - Go to the "View" menu and click "Presentation Mode."
     - Everything gets bigger and easier to see.
 
@@ -61,7 +61,7 @@ layout: left
     1 error generated.
     make: *** [test] Error 1
     ```
-      - This message can be intimidating for students as it's a lot of cryptic text.
+      - This message can be intimidating for students as there is a lot of cryptic text.
       - Typing `help50 make test` will try to parse the error and give a more human-friendly explanation like this:
         ```
           You seem to have an error in test.c on line 5. By "implicit
@@ -77,16 +77,16 @@ layout: left
 - CS50 tracks every time `help50` is ran and doesn't understand the error.
 
 ##### `check50`
-- Once a student has compiled their program, it is useful to see if it is correct or not.
-- Runs student code against tests created by CS50.
-
+- Once a student has compiled their program, it's useful to see if it's correct or not.
+- Runs student code against tests created by CS50.<br>
 <img src="check50.png" width="400" alt="check50">
 - Tests that students pass are denoted with `:)` and green text.
 - Likewise, tests that students fail are denoted with `:(` and red text.
 - Certain common errors have additional text similar to `help50` to push students in the right direction.
 - Open source: anyone can contribute by adding new checks, or adding new problems.
   - Located at [github.com/cs50/check50](https://github.com/cs50/check50).
-- Includes hints for some incorrect responses: tries to catch common mistakes and help students correct them.
+- Includes hints for some incorrect responses.
+  - Tries to catch common mistakes and help students correct them.
 
 ##### `debug50`
 - CS50 IDE's built in visual debugger.
@@ -94,7 +94,7 @@ layout: left
   - This will pause program at any line of code.
     - Can see the value of variables at that point in time.
     - Can step through the program one step at a time.
-- Can view and modify values of all variables during execution
+- Can view and modify values of all variables during execution.
 
 ##### `style50`
 - There are many good ways to style code, but infinitely many more ways to do it poorly.
@@ -134,53 +134,44 @@ layout: left
 ### CS50.me
 - CS50's centralized submission and grading platform.
 - Uses students' GitHub credentials for login.
-- Integrated with `submit50` and `check50`
-
+- Integrated with `submit50` and `check50`. <br>
 <img src="github.png" width="500" alt="GitHub">
-
 - Effectively, `submit50` pushes student code to GitHub, where CS50.me can access it and run check for grades.
   - Teachers can comment on student code directly on GitHub.
 #### Student View
 - On CS50.me students can view:
-  - all submitted programs
-  - comments on their code on GitHub
-    - Students are notified via email when a teacher has added a comment to their code.
-
+  - All submitted programs
+  - Comments on their code on GitHub
+    - Students are notified via email when a teacher has added a comment to their code. <br>
     <img src="githubcomment.png" alt="GitHub Comment" width="700">
-
-    - Teachers can save comments for repeated use.
-
+    - Teachers can save comments for repeated use. <br>
       <img src="savedreply.png" alt="Saved Reply" width="600">
-
-  - any scores entered into CS50.me gradebook
+  - Any scores entered into CS50.me gradebook
 
 #### Teacher View
-- students grouped into "sections"
-- invitation link to distribute to students
+- Students are grouped into "sections."
+- Invitation link given to distribute to students.
   - When students click on the invitation link, they will join your section.
-- can view and comment on student submissions via GitHub
+- Can view and comment on student submissions via GitHub.
   - You can grade by individual problems or students.
 
 #### Gradebook
-- automatically tests correctness of code and inputs scores
-- includes fields for design and style
+- Automatically tests correctness of code and inputs scores.
+- Includes fields for design and style.
   - This is where the teacher focus for grading will largely be.
-- correctness scores can be overridden
-- shows all problems that a student has submitted
+- Correctness scores can be overridden.
+- Shows all problems that a student has submitted.
 
 #### CS50.me Updates
-- Version 1
-
+- Version 1 <br>
   <img src="gradebookv1.png" alt="Saved Reply" width="600">
-
 - Version 2
-  - Allows for custom assignments in addition to CS50 problems.
-
+  - Allows for custom assignments in addition to CS50 problems. <br>
   <img src="gradebookv2.png" alt="Saved Reply" width="600">
 
 ### Breakout
 - Before the existence of the CS50 IDE, students used to do a problem set called Breakout.
-  - Students would recreate the classic game Breakout, a brick-breaking game where a ball bounces from the top with a paddle at the bottom.
+  - Students would recreate the classic game Breakout, a brick-breaking game where a ball bounces from the top with a paddle at the bottom. <br>
     <img src="breakout.png" alt="breakout" width="300">
   - Problem was that the graphical capabilities of the online IDE were more limited than on a local computer.
   - Chad is working on resurrecting this problem set to work on the CS50 IDE.
@@ -199,73 +190,71 @@ layout: left
 - More dynamic and accessible versions of `man` pages.
   - `man` pages can be a bit too arcane for new C students to understand.
 - Reference50 uses:
-  - studying
-  - lookup by function name, library
+  - Studying
+  - Lookup by function name, library
   - "Less Comfortable" mode: simplified language
   - "More Comfortable" mode: more like `man` pages, emphasis on technical reading
   - "Less Comfortable" and "More Comfortable" modes can be toggled between.
 - Improvements
   - "Less Comfortable" could use expansion
-    - more, better examples
-    - integrated practice problems
-    - information can be trimmed down
+    - More, better examples
+    - Integrated practice problems
+    - Information can be trimmed down
   - To improve Reference50, the CS50 staff have been pulling inspiration from the old CS50 Study site.
     - CS50 Study has slides of information and practice problems for various topics and C functions.
 - Reference50 future:
-  - Comprehensive for all brands of CS50
+  - Comprehensive for all brands of CS50.
     - @Harvard/@Yale
     - X
     - AP
-  - function/library reference tool
+  - Function/library reference tool
   - programming exercises/practice problems
   - themed around CS50 topics
-  - Reference50 mockup entry for `strlen`:
-
+  - Reference50 mockup entry for `strlen`: <br>
     <img src="reference50new1.png" alt="Reference50 New" width="500">
-
-    - explanations are a bit more human-readable
-    - examples are more complex
-    - problems
+    - Explanations are a bit more human-readable
+    - Examples are more complex
+    - Problems
       - Students can look at a staff solution to enhance practice.
-  - further plans
+  - Further plans
     - IDE integration
     - separate practice problem website
-      - sorted by category and tags
+      - Sorted by category and tags
 
-### CS50 QuizBank
-- Davey Proctor takes over to talk about CS50 QuizBank.
-- CS50 QuizBank lives at (quizbank.cs50.net)[https://quizbank.cs50.net/].
+### CS50 Quiz Bank
+- Davey Proctor takes over to talk about CS50 Quiz Bank.
+- CS50 Quiz Bank lives at [quizbank.cs50.net](https://quizbank.cs50.net/).
 - The material here can be used for practice questions or quiz questions.
 - Bank of every question ever asked on a CS50 quiz.
 - Can search through questions based on:
-  - year
-  - topic
-  - public availability
+  - Year
+  - Topic
+  - Public availability
 - Teachers can create quizzes from the questions.
   - Add questions from the database to a quiz to be downloaded as a word document or pdf.
 
 ### ap.cs50.net
 - Haley James transitions to discussing [ap.cs50.net](https://ap.cs50.net).
 - The homepage has general information about CS50 AP.
-- Teachers also have their own site that cab be accessed by signing in.
+- Teachers also have their own site that can be accessed by signing in.
 - Users can search though CS50 AP curriculum and resources.
   - Teacher can customize their own version of the site.
     - Determining what students should see when visiting the site.
 - The resources available include:
-  - videos
-  - written resources
-  - slides
-  - external resources
+  - Videos
+  - Written resources
+  - Slides
+  - External resources
     - Useful resources not created by CS50.
-  - learning objectives
+  - Learning objectives
   - CSTA mapping
-  - programming problems
-  - written problems
-  - teaching tips
-  - demonstration ideas
-  - thought questions
-  - reference sheets
+  - Programming problems
+  - Written problems
+  - Teaching tips
+  - Demonstration ideas
+  - Thought questions
+  - Reference sheets
     - One page summaries with information on various topics.
-  - private for teachers
-  - sample solutions
-  - enduring understandings
+  - Private for teachers
+  - Sample solutions
+  - Enduring understandings

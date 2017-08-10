@@ -30,6 +30,7 @@ Forked from https://github.com/cs50/manual50
       - Progress cs50.tf
   - Teacher Insights
     - Get Colton's Spotify
+    - https://open.spotify.com/user/12135203541/playlist/1eUha206SzMrod1sOQN23O
   - AP CSP
     - Include disclaimer
 - Revise workshop notes

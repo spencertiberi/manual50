@@ -7,13 +7,13 @@ layout: left
 ## The CS50 AP Classroom
 
 ### Introductions
-- Erin briefly introduces herself and fields questions.
+- Erin Carvalho briefly introduces herself and fields questions.
 
 ### Overview of AP CSP Mapping
 - The CS50 curriculum has been mapped to the AP Computer Science Principles framework.
-  - Now CS50 is an endorsed provider of curriculum by College Board, which makes it easier to adopt.
+  - Now, CS50 is an endorsed provider of curriculum by College Board, which makes it easier to adopt.
 - The AP CSP curriculum framework can be found at [http://bit.ly/1TolLoG](http://bit.ly/1TolLoG).
-- There's a hierarchy of how the AP CSP is laid out.
+- There's a hierarchy to how the AP CSP is laid out.
   - 7 Big Ideas
     - 6 of them are tested on the exam, excluding Creativity.
     - 24 Enduring Understandings
@@ -29,8 +29,8 @@ layout: left
 
 ### Big Ideas
 1. Creativity
-  - Hard to test with multiple choice, but heavily featured in the create and explore tasks.
-  - How creative are students with making programs from scratch
+  - Hard to test with multiple choice, but heavily featured in the Create and Explore tasks.
+  - How creative are students with making programs from scratch?
     - Items produces by students are referred to as computational artifacts by College Board.
     - Students in this course use the tools and techniques of computer science to create **interesting and relevant artifacts** with characteristics that are enhanced by computation.
 2. Abstraction
@@ -44,20 +44,20 @@ layout: left
   - "This course requires students to use abstractions to **model the world and communicate with people** as well as with machines. Students in this course learn to work with multiple levels of abstraction while engaging with computational problems and systems"
     - Allowing people who don't have a background in the low-level details of code to understand what's happening.
     - CS50 encourages heavy commenting.
-  - low-level implementation of drawing a square using specific language. <br>
+  - Low-level implementation of drawing a square using specific language <br>
     **place pen on paper <br>
     move pen one inch up <br>
     move pen one inch right <br>
     move pen once inch down <br>
     move pen one inch left <br>
     lift pen**
-  - Slightly higher-level implementation of drawing a square using concept of coordinates. <br>
+  - Slightly higher-level implementation of drawing a square using concept of coordinates <br>
     **set pen down at (0, 0) <br>
     move pen to (0, 1) <br>
     move pen to (1, 1) <br>
     move pen to (1, 0) <br>
     move pen to (0, 0) lift pen**
-  - Now, utilizing the abstraction of a square, ww can get a high-level implementation <br>
+  - Now, utilizing the abstraction of a square, we can get a high-level implementation <br>
     **place pen on paper <br>
     draw a one inch by one inch square <br>
     lift pen**
@@ -69,7 +69,7 @@ layout: left
   - In later problems, students have to work with databases and backend.
 4. Algorithms
   - The Create tasks requires students to identify an algorithm and an abstraction.
-  - CS50 likes to define algorithms as what turns input into output. The abstraction is defining this who process.
+  - CS50 likes to define algorithms as what turns input into output. The abstraction is defining this whole process.
   <br>
   <img src="abstraction0.png" width="300">
   - “The development, use, and analysis of algorithms are some of the most fundamental aspects of computing. Students in this course... **develop and express original algorithms**, they implement algorithms in a language, and they analyze algorithms analytically and empirically.”
@@ -138,10 +138,10 @@ layout: left
   - 60% of overall AP score.
   - When you complete the AP audit of your course, you should receive access to a practice test.
   - It's 2-hour exam consisting of ~74 questions.
-    - Covers 6 0f the 7 big ideas (not Creativity).
-      - ~20% each on Algorithms and Programming.
-      - ~18% each on Abstraction and Data/information.
-      - ~12% each on The Internet and Global Impact.
+    - Covers 6 of the 7 big ideas (not Creativity).
+      - ~20% each on Algorithms and Programming
+      - ~18% each on Abstraction and Data/information
+      - ~12% each on The Internet and Global Impact
   - AP CSP is language agnostic, so you can teach your students in any language without hindering your students on the AP Exam.
     - College Board uses a Scratch-like language for problems with programming.
     - A reference sheet for the language is given to students on the AP Exam.
@@ -155,15 +155,15 @@ layout: left
     - Material covered in these chapters is not on the AP Exam.
   - Video resources for teachers and students, written resources, suggested in-class exercises, and more.
     - Erin highlights the usage of [cs50.harvard.edu/ap](https://cs50.harvard.edu/ap), where curriculum and resources currently live, but is going though some changes soon.
-      - Resources are listed by type
+      - Resources are listed by type.
       - Grading guidelines will be moved over to GitHub.
 - 50+ problems
-  - writing
+  - Writing
     - Used to prepare students for the Explore task during Chapter 0.
     - Good opportunity to give feedback on writing, because you can't give feedback on the Explore task.
       - Students will submit the Explore and Create tasks through the [AP Digital Portfolio](https://account.collegeboard.org/login/login?appId=295&DURL=https%3A%2F%2Fdigitalportfolio.collegeboard.org%2F%23instruction).
         - Teachers have to set the portfolio up and students submit to it.
-  - programming
+  - Programming
     - Many offered in multiple variations for students with differing backgrounds.
       - More Comfortable and Less Comfortable versions.
         - Students are free to do both, if desired.
@@ -175,37 +175,37 @@ layout: left
 ##### 0. Computers and Computing (2 - 3 weeks)
 - Addresses hardware that makes up a computer.
 - Sample topics include:
-  - What does it mean to “compute”? How do we define a “computer”?
+  - What does it mean to “compute?" How do we define a “computer?"
   - How do computers work?
-  - binary
+  - Binary
   - ASCII
-  - algorithms
+  - Algorithms
 - Big Ideas:
   - Abstraction
-    - "I'm moving my mouse, what's happening on a low level? High level?""
+    - "I'm moving my mouse, what's happening on a low level? High level?"
   - Algorithms
     - Describing things with words.
 
 ##### 1. Building Blocks of Programming (3 - 4 weeks)
 - Sample topics include:
   - Scratch
-  - pseudocode
-  - variables
-  - loops
-  - conditionals
+  - Pseudocode
+  - Variables
+  - Loops
+  - Conditionals
 - Big Ideas
   - Creativity
   - Programming
 
 ##### 2. Putting the Blocks Together (4 - 5 weeks)
 - Sample topics include:
-  - functions
+  - Functions
     - Example of abstraction
-  - arrays
+  - Arrays
     - What are the benefits/limitation of arrays?
     - Example of abstraction
-  - user interfaces
-  - debugging
+  - User interfaces
+  - Debugging
     - debug50
 - Big Ideas
   - Abstraction
@@ -213,10 +213,10 @@ layout: left
 
 ##### 3. Thinking Computationally (2 - 3 weeks)
 - Sample topics include:
-  - sorting
+  - Sorting
     - How decide what algorithm to use?
-  - searching
-  - efficiency
+  - Searching
+  - Efficiency
   - Can a computer solve _any_ problem?
     - Addressed in the College Board framework as "Unsolvable Problems."
       - Example: the Turing Halting Problem
@@ -228,12 +228,12 @@ layout: left
 ##### 4. Design, Elegance, and Efficiency (3 - 4 weeks)
 - Could be useful to spend more time here.
 - Sample topics include:
-  - data encapsulation
+  - Data encapsulation
     - building structs
     - Focus on creating data types that store information in a more efficient way.
-  - files
-  - images
-  - collaboration
+  - Files
+  - Images
+  - Collaboration
 - Big Ideas
   - Data and Information
   - Programming
@@ -243,11 +243,11 @@ layout: left
 - Fast Track (optional) chapter
   - Not covered on the AP Exam
 - Sample topics include:
-  - stacks
-  - queues
-  - pointers
-  - trees
-  - hash tables
+  - Stacks
+  - Queues
+  - Pointers
+  - Trees
+  - Hash tables
 - Big Ideas
   - Data and Information
   - Programming
@@ -258,9 +258,9 @@ layout: left
   - Feel free to use only one Fast Track chapter if need be.
   - Suggested that these chapters come after Chapter 5 as they are in C.
 - Sample topics include:
-  - building abstractions
-  - data compression
-  - scalability
+  - Building abstractions
+  - Data compression
+  - Scalability
 - Big Ideas
   - Abstraction
   - Data and Information
@@ -268,10 +268,10 @@ layout: left
 
 ##### 5. Networking and the Internet (2 - 3 weeks)
 - Sample topics include:
-  - internet technologies
-  - routing
-  - html/css
-  - cybersecurity and cyberattacks
+  - Internet technologies
+  - Routing
+  - HTML/CSS
+  - Cybersecurity and cyberattacks
     - Pull in current events such as the Google Docs phishing scam.
 - Big Ideas
   - The Internet
@@ -280,11 +280,11 @@ layout: left
 ##### 6. Problems Solving in a Interconnected World (3 - 5 weeks)
 - Could be useful to spend more time here.
 - Sample topics include:
-  - PHPÂ
+  - PHP
     - PHP has been replaced by Python for the upcoming year.
       - CS50 has a Python library.
   - JavaScript
-  - problems faced by modern computer scientists
+  - Problems faced by modern computer scientists
 - Big Ideas
   - Programming
   - The Internet
@@ -298,9 +298,9 @@ layout: left
 
 #### After the AP Exam
 - Some teachers have students:
-  - build upon their Create Task project
-  - create walkthrough videos
-  - go into other topics like mobile app development
+  - Build upon their Create Task project
+  - Create walkthrough videos
+  - Go into other topics like mobile app development
 
 ### Additional Info
 - Test review is integrated throughout the year.

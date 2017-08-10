@@ -17,7 +17,7 @@ layout: left
       - Ran automatically by `submit50`
         - These grades can be overwritten for corner cases.
   - Design
-    - most qualitative and subjective
+    - Most qualitative and subjective
     - With large groups of students, grading for Design can be a daunting task.
   - Style
     - Like Correctness, Style has its own tool for evaluation, `style50`.
@@ -26,7 +26,7 @@ layout: left
 
 ### Grading Tools
 - GitHub
-  - Traditionally used in industry for code reviews,
+  - Traditionally used in industry for code reviews.
   - Allows for more qualitative feedback on code.
   - When students submit their code using `submit50`, their code becomes accessible on GitHub,
     - You can add comments to any line of code by clicking the red checkmark next to the line.
@@ -34,28 +34,28 @@ layout: left
       - This process can create dialog.
 
 ### Academic Honesty
-- _This course’s philosophy on academic honesty is best stated as “be reasonable.”
+- _This course’s philosophy on academic honesty is best stated as “be reasonable.”_
 - _... you may ask classmates and others for help so long as that help does not reduce to another doing your work for you._
-  - Good rule of thumb.
+  - Good rule of thumb
 - _Generally speaking, when asking for help, you may show your code to others, but you may not view theirs..._
-  - Heuristic for whether something crosses the line.
+  - Heuristic for whether something crosses the line
   - "Let me see how you did it" is not okay.
 - All academic honest problems reduce to making a poor split-second decision.
   - CS50 deals with this in a few ways.
-    - regret clause
+    - Regret clause
       - If you do cross the line and do something unreasonable, then come forward within 72 hours.
-        - 72 is somewhat arbitrary, but enough time for students to sleep and think about what they've done.
+        - 72 is somewhat arbitrary, but it's enough time for students to sleep and think about what they've done.
         - This creates dialog and teachable moments.
-        - The assignment is given a zero, but no further disciplinary action is pursued.
+        - The assignment is given a grade of zero, but no further disciplinary action is pursued.
         - If need be, additional support is sought if there are issues outside of class causing stress
-      - time consuming
+      - Time consuming
   - 0-10% of CS50 students still cross the line.
     - This happens in cases where code was undoubtedly copied.
-      - The red flags are usually repeated odd english errors or peculiar variable names that are shared.
+      - The red flags are usually repeated odd english errors or peculiar variable names that are shared between two programs.
       - Software helps catch similarities.
       - Ultimately, human judgement decides when the line has been crossed.
-
-<img src="kitten.jpg" "kitten" width="200">
+- David typically shows a picture of a kitten after having this talk during lecture, so...<br>
+<img src="kitten.jpg" alt="kitten" width="200">
 
 ### Grading and Assessment
 - Erin Carvalho takes over to talk more about grading practices in CS50.
@@ -66,16 +66,16 @@ layout: left
     - Students should get a perfect score in correctness with access to this tool.
 - Design
   - Where most of the time will be spent grading.
-    - most difficult
-    - subjective
+    - Most difficult
+    - Subjective
 - Style
   - Both style and Correctness can be overwritten by the teacher.
     - In CS50x Nicaragua, students were failing hello.c checks as they were printing out "hola, mundo" (which, of course, is "hello, world" in Spanish).
       - This would be a good time to overwrite the Correctness grades.
-  - If you wish to have another metric for grade style than the CS50 Style Guide, feel free to.
+  - If you wish to use another metric for grading style than the CS50 Style Guide, feel free to.
 - Scope was removed because it became redundant with Correctness.
 - Each recommended grading rubric has guidelines.
-  - CS50 staff experience with common mistakes and design insight are built into these guidelines.
+  - The CS50 staff's experience with common mistakes and design insight are built into these guidelines.
 - Having students resubmit assignments to create a culture of error can be helpful.
   - Students are often more comfortable using functions and complex structures the second time around.
 - The important take away from the three-axis model is that we don’t want to punish students for the same mistake over and over.
@@ -106,13 +106,12 @@ layout: left
 ---
 
 ##### Correctness
-- "To what extent is your code consistent with our specifications and free of bugs?"
-
+- "To what extent is your code consistent with our specifications and free of bugs?"<br>
 <img src="correctness5.png" alt="correctness 5" width="600">
-- 4 & 5 are the goal.
-- 2 & 3 are where improvement can be made.
-- 0 & 1 are for when students put minimal effort, just copy distribution code, or the program doesn't compile.
-  - `check50` makes these grades harder to get.
+  - 4 & 5 are the goal.
+  - 2 & 3 are where improvement can be made.
+  - 0 & 1 are for when students put minimal effort, just copy distribution code, or the program doesn't compile.
+    - `check50` makes these grades harder to get.
 
 ##### `check50`
 - Command-line tool built into CS50 IDE to run automated checks of students’ code.
@@ -126,20 +125,21 @@ layout: left
 - “To what extent is your code written well (i.e., clearly, efficiently, elegantly, and/or logically)?”
 - Hardest for students to understand, so its important to model what good design looks like.
 - The most subjective of the three axes.
-- Amorphous, evolving. What may have once been considered good design may now generally be considered poor.
+- Amorphous, evolving
+  - What may have once been considered good design may now generally be considered poor.
 - Of the three axes, this will likely be the most time-consuming to assess.
   - This is the type of feedback you want your students to get.
-    - Why uses a while loop instead of a for loop? etc.
+    - "Why uses a while loop instead of a for loop?" etc.
   - GitHub makes this process easier.
-- Students will benefit most from qualitative feedback most here (e.g., comments/notes on cs50.me submissions page), so they can apply those comments in the future.
+- Students will benefit most from qualitative feedback most here (e.g., comments/notes on cs50.me submissions page), as they can apply those comments in the future.
 - Questions to consider (among others):
   - ~~Do I see repetition here that could be eliminated?~~
   - ~~Do I see loops here that could be eliminated?~~
   - ~~Are there magic numbers (hard-coded constants) that could be eliminated?~~
   - Can I eliminate:
-    - repetition
-    - loops
-    - magic numbers
+    - Repetition
+    - Loops
+    - Magic numbers
   - Is there a “shorter” way to accomplish the same thing?
     - Length of code is a good starting place for determining design.
   - Should this code have been broken out into its own function?
@@ -260,11 +260,11 @@ for(int i = 0; i < DENOMINATIONS; i++)
 ###### Style and the Five Point Scale
 <img src="style5.png" alt="style5" width="600">
 - 4 & 5 are the goal.
-  - well-named variables
-  - sufficient comments
+  - Well-named variables
+  - Sufficient comments
 - 3 is where improvement can be made.
 - 0, 1, & 2 are for poor style
-  - odd indentation
-  - no comments
-  - bad variable names
-  - magic numbers
+  - Odd indentation
+  - No comments
+  - Bad variable names
+  - Magic numbers

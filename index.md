@@ -18,6 +18,7 @@ title: CS50 AP Playbook
     - [Puzzleday](events/puzzleday)
     - [Hackathon](events/hackathon)
     - [CS50 Fair](events/cs50fair)
+- [CS50 Reference Documentation](https://manual.cs50.net/)
 - Resource Reference Sheets
     - [`check50`](resources/pdf/check50.pdf)
     - [CS50.tv](resources/cs50tv.pdf)
@@ -26,7 +27,6 @@ title: CS50 AP Playbook
     - [CS50 Reference](resources/pdf/cs50reference.pdf)
     - [`help50`](resources/pdf/help50.pdf)
     - [`style50`](resources/pdf/style50.pdf)
-
 - CS50 AP Workshop 2017 Resources
   - This is CS50
     - [Video](https://youtu.be/l0nhqJaIYvc?list=PLhQjrBD2T381nVyoR_UDSBw-z1SKD4qwp)
