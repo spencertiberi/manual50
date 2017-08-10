@@ -8,9 +8,7 @@ layout: left
 
 ### Introductions
 - Erin Carvalho and Doug Lloyd briefly introduce themselves and review the schedule for the day before introducing David Malan.
-
 - David introduces himself and talks about the purpose of the workshop as a method for creating a teaching community.
-
 - He then talks about his background in teaching, emphasizing his experience teaching math with only a text book.
   - This is contrast with CS50 and its OpenCourseware and tools.
 
