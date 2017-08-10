@@ -41,9 +41,12 @@ Screen mirroring allows you to move your laptop, tablet, or other device being u
 
 _Tip: A tablet being screen mirrored to a projector can work wonders for classroom management as you can cycle through the room while displaying information._
 
-### Classroom speakers to play media
+### Classroom Speakers to Play Music
 
 Music can create an energetic, motivating, and/or focused environment depending on the playlist chosen.
+
+For events, feel free to use the [CS50 Puzzle Day playlist](https://open.spotify.com/user/12135203541/playlist/1eUha206SzMrod1sOQN23O), courtesy of CS50's own Colton Ogden. <br>
+<img src="colton.jpg" alt="colton" width="200">
 
 _Tip: In a pinch, a single bluetooth speaker can work wonders if the classroom does not have a speaker system._
 
