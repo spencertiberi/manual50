@@ -44,6 +44,8 @@ title: CS50 AP Playbook
     - [Video](https://youtu.be/AI53OtHhqcA?list=PLhQjrBD2T381nVyoR_UDSBw-z1SKD4qwp)
     - [Notes](notes/checkingforunderstanding)
     - [Slides](https://www.dropbox.com/sh/bq8cir43m2n6rvq/AAATm-r9TZFnBsR1OepNgZyva?dl=0&preview=Checking+for+Understanding.pdf)
+  - Teaching Small Groups: Web Development
+    - [Video](Teaching Small Groups: Web Development)
   - CS50 Tools
     - [Video](https://www.youtube.com/watch?v=LPgtdQew56c&list=PLhQjrBD2T381nVyoR_UDSBw-z1SKD4qwp&index=6)
     - [Notes](notes/cs50tools)
