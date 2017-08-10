@@ -11,8 +11,7 @@ As always, feel free to reach out and email [ap@cs50.harvard.edu](mailto:ap@cs50
 
 ## School and District Administration
 
-<img src="principal.gif" alt="principal" width="150" align="right">
-
+<img src="principal.gif" alt="principal" width="150" align="right"><<br>
 Some CS50 teachers are lucky to have the full support from school and/or district administration. Others, not so much. For planning events, grading policies, establishing a rich culture, and ensuring access to technology, administration support is incredibly helpful. Thus, obtaining this support is a must.
 
 Your excitement can go a long way in selling the course. Administrators typically want to add additional AP courses, so your being engaged with the process of bringing the course to your school can push things in the right direction.

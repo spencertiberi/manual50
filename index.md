@@ -5,8 +5,7 @@ title: CS50 AP Playbook
 
 # Table of Contents
 
-<img src="cs50apworkshop.jpg" alt="cs50apworkshop" width="600" align="right">
-
+<img src="cs50apworkshop.jpg" alt="cs50apworkshop" width="600" align="right"><br>
 - [Day 0 Guide](day0)
 - [Curriculum Overview](curriculum)
 - [Teacher Insights](insights)
