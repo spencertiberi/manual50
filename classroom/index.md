@@ -43,4 +43,4 @@ This is where all of our curricular resources live. You can find links to videos
 ### What is CS50.me?
 This is where your gradebook will exist. Once authorized, you will have the ability to create your own course. Here, it is called “Period 1 CS50 AP.” After selecting the course, click on the overview. Here you will see the link to invite students into your class as well as the button to download your gradebook as a CSV so that you can port your grades over easily to whatever software your school uses for grading.
 
-<img src="cs50.me.png" alt="CS50.me" width="600">
+<img src="me.png" alt="CS50.me" width="600">
