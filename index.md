@@ -7,6 +7,7 @@ title: CS50 AP Playbook
 
 <img src="cs50apworkshop.jpg" alt="cs50apworkshop" width="600" align="right">
 - [Day 0 Guide](day0)
+- [CS50 Classroom Setup](classroom)
 - [Curriculum Overview](curriculum)
 - [Teacher Insights](insights)
 - [AP CSP](apcsp)

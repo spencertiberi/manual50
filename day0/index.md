@@ -38,7 +38,7 @@ The following websites are optional, but would greatly improve the student exper
 * Websites whitelisted
 * Contact [ap@cs50.harvard.edu](mailto:ap@cs50.harvard.edu) to let us know you are teaching the course
 * Plan a [Puzzle Day](../events/puzzleday)
-* Review [Chapter 0 materials](brokt link:../curriculumstartup.html#_chapter_0_computers_and_computing_completion_time_3_weeks)
+* Review Chapter 0 materials
 * Ensure class website is set up
-* Ensure [CS50.me](brokt) is set up
-* Have students [register for edX](brokt link:../resources/cs50ide.html#_cs50_ide_setup) and [github](brokt) in order to use the CS50 IDE.
+* Ensure [CS50.me](../classroom) is set up
+* Have students register for edX and GitHub in order to use the [CS50 IDE](../resources/pdf/cs50ide.pdf).
