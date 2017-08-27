@@ -27,7 +27,7 @@ When grading for the 3 axes, CS50 uses a five point grading scale for determinin
 | **0** | No Effort                                  |
 
 <br>
-NOTE: A grade of 3 is indeed good! This can take quite some time for students to get comfortable with as they have been trained to see 3 out of 5 as a percentage, namely 3/5 or 60%. +
+NOTE: A grade of 3 is indeed good! This can take quite some time for students to get comfortable with as they have been trained to see 3 out of 5 as a percentage, namely 3/5 or 60%.
 
 Also, whereas scores of 5 can be common for **Correctness** and **Style**, a score of 5 for **Design** should be rare; a 5 here implies perfection. **Design**, by its nature, offers room for improvement in most cases.  Thus, a 4 for **Design** is a really good grade.  
 
