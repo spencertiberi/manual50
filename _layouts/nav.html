@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="col-sm-3">
+  <ul class="std-nav rightjust">
+    <li><a href="{{ site.baseurl }}/day0" {% if page.url == "/day0/" %} class="active" {% endif %}> Day 0 Guide </a></li>
+    <li><a href="{{ site.baseurl }}/classroom" {% if page.url == "/classroom/" %} class="active" {% endif %}> CS50 Classroom Setup </a></li>
+    <li><a href="{{ site.baseurl }}/curriculum" {% if page.url == "/curriculum/" %} class="active" {% endif %}> Curriculum Overview </a></li>
+    <li><a href="{{ site.baseurl }}/insights" {% if page.url == "/insights/" or page.layout == "post" %} class="active" {% endif %}> Teacher Insights </a></li>
+    <li><a href="{{ site.baseurl }}/apcsp" {% if page.url == "/apcsp/" %} class="active" {% endif %}> AP CSP </a></li>
+    <li><a href="{{ site.baseurl }}/finalproject" {% if page.url == "/finalproject/" %} class="active" {% endif %}> CS50 Final Project </a></li>
+    <li><a href="{{ site.baseurl }}/grading" {% if page.url == "/grading/" %} class="active" {% endif %}> Grading </a></li>
+    <li><a href="{{ site.baseurl }}/events" {% if page.url == "/events/" %} class="active" {% endif %}> Events and Culture </a></li>
+    <li><a href="https://manual.cs50.net/"> CS50 Programmer's Manual </a></li>
+    <li><a href="{{ site.baseurl }}/resources" {% if page.url == "/references/" %} class="active" {% endif %}> Resource Reference Sheets </a></li>
+    <li><a href="{{ site.baseurl }}/workshop" {% if page.url == "/workshop/" %} class="active" {% endif %}> CS50 AP Workshop 2017 Resources </a></li>
+  </ul>
+</div>
+<div class="col-sm-9">
+  {{content}}
+</div>

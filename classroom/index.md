@@ -1,5 +1,5 @@
 ---
-layout: left
+layout: nav
 ---
 
 # Setting Up Your CS50 Classroom

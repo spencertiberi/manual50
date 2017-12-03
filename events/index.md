@@ -1,5 +1,5 @@
 ---
-layout: left
+layout: nav
 ---
 
 # Events and Culture

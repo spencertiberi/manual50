@@ -1,5 +1,5 @@
 ---
-layout: left
+layout: nav
 ---
 
 # Day 0

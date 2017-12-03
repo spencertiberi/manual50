@@ -1,5 +1,5 @@
 ---
-layout: left
+layout: nav
 ---
 
 # CS50 Grading

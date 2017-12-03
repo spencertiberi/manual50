@@ -30,7 +30,7 @@ cp node_modules/primer-css/build.css _sass/
     }
 }
 @media (min-width: 768px) {
-    .col-sm-3 h1 { 
+    .col-sm-3 h1 {
         white-space: nowrap; /* confine to one line so title doesn't invisibly wrap */
         visibility: hidden; /* hide title above TOC but preserve its height */
     }
@@ -41,21 +41,21 @@ cp node_modules/primer-css/build.css _sass/
 
 /* position anchors below navbar-fixed-top */
 /* https://github.com/twbs/bootstrap/issues/1768#issuecomment-46519033 */
-*[id]:before { 
-  content: " "; 
-  display: block; 
-  margin-top: -74px; 
+*[id]:before {
+  content: " ";
+  display: block;
+  margin-top: -74px;
   height: 74px; /* TODO: base 50px + 24px on variables */
-  visibility: hidden; 
+  visibility: hidden;
 }
 
 /* position columns below navbar-fixed-top */
 /* http://getbootstrap.com/components/#navbar-fixed-top */
 .col-sm-12 {
-    padding-top: 50px; 
+    padding-top: 50px;
 }
 @media (min-width: 768px) {
-    .col-sm-3 { /* scroll TOC independently */
+    .col-sm-3 .col-sm-2 { /* scroll TOC independently */
         bottom: 0;
         left: 0;
         overflow-y: auto;
@@ -74,6 +74,15 @@ nav a {
 }
 nav .navbar-form {
     box-shadow: none;
+}
+
+.std-nav {
+    left: 0;
+    overflow-y: auto;
+    position: fixed;
+    li {
+      list-style: none;
+    }
 }
 
 /* prevent word breaks */

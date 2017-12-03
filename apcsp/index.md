@@ -1,5 +1,5 @@
 ---
-layout: left
+layout: nav
 ---
 
 # AP Computer Science Principles (CSP)

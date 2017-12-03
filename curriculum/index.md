@@ -1,3 +1,7 @@
+---
+layout: nav
+---
+
 # CS50 AP Curriculum Overview
 
 ## Seven + Two
