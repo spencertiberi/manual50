@@ -1,5 +1,5 @@
 ---
-layout: left
+layout: nav
 ---
 
 # Custom Problems with `check50` and `submit50`

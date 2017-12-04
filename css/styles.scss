@@ -25,14 +25,17 @@ cp node_modules/primer-css/build.css _sass/
 /* position title above TOC if small screen */
 /* TODO: use Sass to figure out 768px via variable */
 @media (max-width: 768px) {
-    .col-sm-9 h1 {
-        display: none; /* hide other title */
+    .std-nav {
+        display: none;
     }
 }
 @media (min-width: 768px) {
     .col-sm-3 h1 {
         white-space: nowrap; /* confine to one line so title doesn't invisibly wrap */
         visibility: hidden; /* hide title above TOC but preserve its height */
+    }
+    .mobile-nav {
+        display: none;
     }
 }
 .col-sm-12 nav + h1[id] {
@@ -49,45 +52,41 @@ cp node_modules/primer-css/build.css _sass/
   visibility: hidden;
 }
 
+.active {
+    color: #420909;
+}
+
 /* position columns below navbar-fixed-top */
 /* http://getbootstrap.com/components/#navbar-fixed-top */
 .col-sm-12 {
     padding-top: 50px;
 }
-@media (min-width: 768px) {
-    .col-sm-3 .col-sm-2 { /* scroll TOC independently */
-        bottom: 0;
-        left: 0;
-        overflow-y: auto;
-        position: fixed;
-        right: 0;
-        top: 50px;
-    }
-}
 
-/* stylize TOC */
-nav {
-    font-size: smaller;
-}
-nav a {
-    color: #999;
-}
-nav .navbar-form {
-    box-shadow: none;
-}
+/* stylize nav */
+.nav {
+    overflow-y: none;
 
-.std-nav {
-    left: 0;
-    overflow-y: auto;
-    position: fixed;
     li {
-      list-style: none;
+        list-style: none;
+        list-style-type: none;
     }
 }
 
 /* prevent word breaks */
 .markdown-body {
     word-wrap: normal;
+}
+
+.std-nav {
+    position: fixed;
+}
+
+a {
+  color: #AA4444;
+}
+
+a:hover {
+  color: #420909;
 }
 
 /* constrain to viewport */
