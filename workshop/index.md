@@ -39,7 +39,7 @@ The CS50 staff run workshops for educators wishing to bring CS50 to their classr
 - [Notes](notes/diversityrecruiting)
 - [Slides](https://www.dropbox.com/sh/bq8cir43m2n6rvq/AAATm-r9TZFnBsR1OepNgZyva?dl=0&preview=CS50+%40+Archer.pdf)
 
-# Grading and Academic Honesty
+## Grading and Academic Honesty
 - [Video](https://youtu.be/htL6xEpWaME?list=PLhQjrBD2T381nVyoR_UDSBw-z1SKD4qwp)
 - [Notes](notes/grading)
 - [Slides](https://www.dropbox.com/sh/bq8cir43m2n6rvq/AAATm-r9TZFnBsR1OepNgZyva?dl=0&preview=Grading.pdf)
